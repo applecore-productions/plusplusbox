@@ -1,13 +1,270 @@
-
 {
   "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.yibciycfyi",
+      "developerName": "",
+      "downloadURL": "https://download.wetransfer.com//us2/f364f2dd1d2c06d05927560a9c60c76f20201227190307/1947707e5f6239e9e5c329178dd97e4209a6b082/cercube_v5.2.11.ipa?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDk1NDU2NDEsInVuaXF1ZSI6ImYzNjRmMmRkMWQyYzA2ZDA1OTI3NTYwYTljNjBjNzZmMjAyMDEyMjcxOTAzMDciLCJmaWxlbmFtZSI6ImNlcmN1YmVfdjUuMi4xMS5pcGEiLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS51cy1lYXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci8xMzg5YmYzZTdlZWEwMTI5ODM1NzQxNzM0MTExZTBlZWNlZDRkMmZiNDI2NDk1YTg5NzkzMzU0ZTQ0YmM5YzUzYTYxZTgzN2ZlNWQ2YmVlYzgyOTE3MSIsImZpbmdlcnByaW50IjoiMTk0NzcwN2U1ZjYyMzllOWU1YzMyOTE3OGRkOTdlNDIwOWE2YjA4MiIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiZjM2NGYyZGQxZDJjMDZkMDU5Mjc1NjBhOWM2MGM3NmYyMDIwMTIyNzE5MDMwN1wiLFwiZG93bmxvYWRfaWRcIjoxMTEzMjM5OTMwNn19In0.cx-wMo2NP898rsFgRF71HkVWKXYJAb8j7fNU4xqPE-k",
+      "iconURL": "https://iosninja.io/img/ipas/cercube.png",
+      "localizedDescription": "Cercube will allow you to enjoy YouTube without ads and many other added features\n\n",
+      "name": "ceracube ",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "tweaked YouTube ",
+      "tintColor": "018084",
+      "version": "2.11",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.jbgtcggfd",
+      "developerName": "Saunders tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/TutuBoxTutuExcluso.ipa",
+      "iconURL": "https://tutubox.io/img/TutuBoxTutuExcluso.png",
+      "localizedDescription": "this version of tutubox will install bot won't work",
+      "name": "tutubox Shanghai-tutubox",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.ijichrxbsj",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FilzaEscaped.ipa",
+      "iconURL": "https://tutubox.io/img/FilzaEscaped.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "filza escaped-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.ifuiugiubc",
+      "developerName": "coolstar ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Electra.ipa",
+      "iconURL": "https://tutubox.io/img/Electra.png",
+      "localizedDescription": "iOS 11 jailbreak\n\nThis app IPA is hosted by tutubox and credit goes to Saunders tech \n\n",
+      "name": "Electra-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.ihhfohohugugiuc",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/HappyChick.ipa",
+      "iconURL": "https://tutubox.io/img/HappyChick.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n\n",
+      "name": "Happy Chick-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.jfhygdhhdhdhy",
+      "developerName": "Tihlmstar ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/H3lix.ipa",
+      "iconURL": "https://tutubox.io/img/H3lix.png",
+      "localizedDescription": "iOS 10 jailbreak \n\nThis app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "h3lix-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.niuuciufcbicf",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Fortnite.ipa",
+      "iconURL": "https://tutubox.io/img/Fortnite.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "Fortnite-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.idjdhgggcgb",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GBA4iOS.ipa",
+      "iconURL": "https://tutubox.io/img/GBA4iOS.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "GBA4IOS-tutubox",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "\n"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.iygdeygiye",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/CrunchyRoll++.ipa",
+      "iconURL": "https://tutubox.io/img/CrunchyRoll++.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "CrunchyRoll++-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.nifuicryis",
+      "developerName": "Coolstar",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Chimera.ipa",
+      "iconURL": "https://tutubox.io/img/Chimera.png",
+      "localizedDescription": "This app IPA is hosted by tutubox and credit goes to Saunders tech \n",
+      "name": "Chimera (tutubox version)",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.uyigrfufruigu",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AgeOfMagicHack.ipa",
+      "iconURL": "https://tutubox.io/img/AgeOfMagicHack.png",
+      "localizedDescription": "This app IPA is from tutubox and credit goes to Saunders tech \n",
+      "name": "Age Of Magic Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AeroflyFS2020Hack.ipa",
+      "iconURL": "https://tutubox.io/img/AeroflyFS2020Hack.png",
+      "localizedDescription": "This app IPA is from tutubox and credit goes to Saunders tech \n",
+      "name": "Aerofly FS 2020 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.byircuyeyg",
+      "developerName": "Saunders Tech",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AcRebellionHack.ipa",
+      "iconURL": "https://tutubox.io/img/AcRebellionHack.png",
+      "localizedDescription": "This app IPA is from tutubox and credit goes to Saunders tech ",
+      "name": "AC Rebellion Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.hrhiurbyird",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/8BallPoolHack.ipa",
+      "iconURL": "https://tutubox.io/img/8BallPoolHack.png",
+      "localizedDescription": "This app IPA is from tutubox and credit goes to Saunders tech  ",
+      "name": "8ballpoolhack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": ""
+    },
     {
       "beta": false,
       "bundleIdentifier": "com.acp.dbigdgii",
       "developerName": "Pwn2ownd",
       "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
       "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Func0verteam&psig=AOvVaw0xbENUiAfnEAJSspufrkI6&ust=1609625954085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjF2ovi--0CFQAAAAAdAAAAABAD",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "localizedDescription": "this is the official download link taken off of the official unc0ver website",
       "name": "Unc0ver",
       "screenshotURLs": [
         ""
@@ -15,7 +272,7 @@
       "size": 2184796,
       "subtitle": "jb for iOS 13-13.5",
       "tintColor": "018084",
-      "version": "1.3b2",
+      "version": "5",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "I am not the dev I am just hosting this on an AltStore repo to make it easier to install \n\nchange-log can be found on the devs website www.unc0ver.dev "
     }
