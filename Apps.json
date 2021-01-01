@@ -1,0 +1,27 @@
+
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.dbigdgii",
+      "developerName": "Pwn2ownd",
+      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+      "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Func0verteam&psig=AOvVaw0xbENUiAfnEAJSspufrkI6&ust=1609625954085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjF2ovi--0CFQAAAAAdAAAAABAD",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "name": "Unc0ver",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "jb for iOS 13-13.5",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "I am not the dev I am just hosting this on an AltStore repo to make it easier to install \n\nchange-log can be found on the devs website www.unc0ver.dev "
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "applecore archive",
+  "news": [],
+  "userInfo": {}
+}
