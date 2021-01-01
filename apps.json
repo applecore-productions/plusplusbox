@@ -1,0 +1,66 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2577
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\{\
+  "apps": [\
+    \{\
+      "beta": false,\
+      "bundleIdentifier": "com.acp.dbigdgii",\
+      "developerName": "Pwn2ownd",\
+      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",\
+      "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Func0verteam&psig=AOvVaw0xbENUiAfnEAJSspufrkI6&ust=1609625954085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjF2ovi--0CFQAAAAAdAAAAABAD",\
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \\n\\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",\
+      "name": "Unc0ver",\
+      "screenshotURLs": [\
+        ""\
+      ],\
+      "size": 2184796,\
+      "subtitle": "jb for iOS 13-13.5",\
+      "tintColor": "018084",\
+      "version": "1.3b2",\
+      "versionDate": "2020-03-24T14:00:00-07:00",\
+      "versionDescription": "I am not the dev I am just hosting this on an AltStore repo to make it easier to install \\n\\nchange-log can be found on the devs website www.unc0ver.dev "\
+    \},\
+    \{\
+      "beta": false,\
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",\
+      "developerName": "Riley Testut",\
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",\
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",\
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \\n\\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",\
+      "name": "AltStore",\
+      "screenshotURLs": [\
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",\
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",\
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"\
+      ],\
+      "size": 2184796,\
+      "subtitle": "An alternative App Store for iOS.",\
+      "tintColor": "018084",\
+      "version": "1.3b2",\
+      "versionDate": "2020-03-24T14:00:00-07:00",\
+      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\\n\\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\\n\\nNEW FEATURES\\n\'95 Initial support for 3rd party sources\\n\'95 Activate and deactivate apps via drag & drop\\n\'95 Option to remove app extensions from apps to save active app slots\\n\\nBUG FIXES\\n\'95 Fixes issue causing .ipa files to appear disabled in document picker\\n\'95 Fixes issue causing refreshing to sometimes not finish when using older AltServer\\n\'95 Fixes \\"invalid app group\\" error when installing apps\\n\'95 Removes cached apps after they have been uninstalled\\n\'95 Fixes peek & pop on iOS 12\\n\\nPREVIOUS BETA\\n\'95 Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\\n\'95 Significantly improves performance when refreshing apps\\n\'95 Improves error messages when refreshing apps\\n\'95 Improves stability when refreshing apps over WiFi\\n\\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."\
+    \}\
+  ],\
+  "identifier": "com.example.source",\
+  "name": "applecore archive",\
+  "news": [\
+    \{\
+      "appID": "com.rileytestut.Delta",\
+      "caption": "as of 2021 the applecore YT has shut down",\
+      "date": "2019-09-28",\
+      "identifier": "delta-now-available",\
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",\
+      "notify": false,\
+      "tintColor": "8A28F7",\
+      "title": "Applecore YT notice"\
+    \}\
+  ],\
+  "userInfo": \{\}\
+\}}
