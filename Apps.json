@@ -22,9 +22,45 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Coolstar",
+      "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+      "iconURL": "https://theodyssey.dev/assets/images/chimera.jpg",
+      "localizedDescription": "lastest jailbreak for iOS 13-13.7",
+      "name": "Odyssey ",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.2.2",
+      "versionDate": "",
+      "versionDescription": "contains Sileo and libhooker"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.oiddhduisjh",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://phoenixpwn.com/download.php",
+      "iconURL": "https://phoenixpwn.com/phoenix.png",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "name": "Phonex",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2016",
+      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.acp.oojcihsbyxt",
       "developerName": "Riley Testut",
-      "downloadURL": "https://doc-14-8c-docs.googleusercontent.com/docs/securesc/leh5c3gbdlum420mpcr67p1p7fvt8nl3/jgkakkigho8nna2gjsut2h4jsp8p0ufg/1609552500000/09685110441173046255/09685110441173046255/1o2Hba-_WFCVlgiG3s4152-3qTt0ehaWT?e=download&authuser=3&nonce=o1eihle2sdhhc&user=09685110441173046255&hash=vbbrtd0ds0kgthvj30m082kf9ffvvg4i",
+      "downloadURL": "http://www.cokernutx.com/ipaad/tikTok-Unicorn.ipa",
       "iconURL": "https://iosninja.io/img/ipas/tiktok-plus.jpg",
       "localizedDescription": " TikTok++ is an amazing tweak that adds a bunch of new features to the TikTok app such as:\n\nFor You:\n\nDownload Videos\nFollowing Page enhancements\nHide all buttons and text views for all videos\nComment more than 90 characters for all videos\nPresent the download button in For You page\nPerform all share actions\nUser:\n\nDownload User's Profile Image\nShow date created for all videos\nView Private or Under Review video comments\nSpoof Following, Fan and Hearts stats\nDisplay the region for all Users\nDisplay User's region, age and video upload count\nSort user's videos by Likes in descending order\nSort user's Liked videos in descending order\nOther:\n\nUpload videos up to 30min. length\nJoin live streams 24/7\nRemoved TikTok Ads\n",
       "name": "TikTok unicorn",
@@ -42,10 +78,10 @@
       "beta": false,
       "bundleIdentifier": "com.jucbifdyuszho.nucuiufdxuy",
       "developerName": "Michael",
-      "downloadURL": "https://doc-08-8c-docs.googleusercontent.com/docs/securesc/leh5c3gbdlum420mpcr67p1p7fvt8nl3/icti1ntd0oh8ssohp34hh29ob90kt8i0/1609553250000/09685110441173046255/09685110441173046255/1RwdIkxWwevondjkUyefz8Cw4xi2XU8tf?e=download&authuser=3",
+      "downloadURL": "http://download.cokernutx.com/ipadownload/Facebook-Modded.ipa",
       "iconURL": "https://iosninja.io/img/ipas/facebook.png",
       "localizedDescription": "Facebook Wolf brings a number of new features to Facebook such as:\n\nDisable Marking Messages\nDisable Tying Status\nDisable Marking Stories\nDisable Auto-Advance in Stories\nNo Facebook Story Ads \nNo Facebook Feed Ads \nSave Feed videos by long-pressing the video\n",
-      "name": "Facebook Wolf",
+      "name": "Facebook++",
       "screenshotURLs": [
         ""
       ],
@@ -60,7 +96,7 @@
       "beta": false,
       "bundleIdentifier": "com.acp.nhbycbuycbf",
       "developerName": "Michael",
-      "downloadURL": "https://doc-10-8c-docs.googleusercontent.com/docs/securesc/leh5c3gbdlum420mpcr67p1p7fvt8nl3/0likibi96cq9kppoko3hg2ep2u8i20ad/1609553025000/09685110441173046255/09685110441173046255/1HBzFvfTPNwl46bSmFfrWy0Z-2p0ffNFf?e=download&authuser=3&nonce=va0j1rephdmmm&user=09685110441173046255&hash=m8a1f0uad7h0lup4p1eeat748j5l6or0",
+      "downloadURL": "http://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
       "iconURL": "https://iosninja.io/img/ipas/twitter.jpg",
       "localizedDescription": "Twitter Owl is a tweak for the iOS Twitter app that introduces new features and enhancements such as:\n\nSave videos\nDisable Twitter Ads\nView confirmation prompt when liking tweets\nAuthentication Mode: protect the app with Face ID authentication",
       "name": "Twitter Owl",
