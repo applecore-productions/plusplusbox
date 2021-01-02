@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.acp.dhdyuijhgy",
+      "developerName": "Micheal",
+      "downloadURL": "blob:https://mega.nz/0da6f1f6-5c28-4be5-9af9-a0eef59bdd92",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "experimental version",
+      "name": "tiktok uni",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "18.0.0",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.acp.iurhucbriy",
       "developerName": "tutubox",
       "downloadURL": "https://tutubox.io/apps/Jailbreak/TikTokUnicorn.ipa",
