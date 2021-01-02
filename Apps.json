@@ -2,62 +2,6 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.acp.jdhxhdyux",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://mega.nz/933c568e-d225-45ce-842e-f5b4818b9312",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "\n",
-      "name": "tumbl",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.kjdghsgdidh",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "",
-      "name": "tumbler",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "blob:https://mega.nz/933c568e-d225-45ce-842e-f5b4818b9312",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.dhgxuisuhusn",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://mega.nz/file/hpdnBSqI#K4BiNXwHTfbOuvUgB16LtIrzycB1FLY-tJkM_fz_njI",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "test app",
-      "name": "bear",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "",
-      "versionDescription": "\nthis is a dev install test"
-    },
-    {
-      "beta": false,
       "bundleIdentifier": "com.acp.iurhucbriy",
       "developerName": "tutubox",
       "downloadURL": "https://tutubox.io/apps/Jailbreak/TikTokUnicorn.ipa",
@@ -114,7 +58,7 @@
       "beta": false,
       "bundleIdentifier": "com.acp.oojcihsbyxt",
       "developerName": "Riley Testut",
-      "downloadURL": "http://www.cokernutx.com/ipaad/tikTok-Unicorn.ipa",
+      "downloadURL": "https://mega.nz/file/0dEEyZgL#TdS8dHKtIZJY15WLhKUiOgKbs0eEJoY6QRyKxoPrr5g",
       "iconURL": "https://iosninja.io/img/ipas/tiktok-plus.jpg",
       "localizedDescription": " TikTok++ is an amazing tweak that adds a bunch of new features to the TikTok app such as:\n\nFor You:\n\nDownload Videos\nFollowing Page enhancements\nHide all buttons and text views for all videos\nComment more than 90 characters for all videos\nPresent the download button in For You page\nPerform all share actions\nUser:\n\nDownload User's Profile Image\nShow date created for all videos\nView Private or Under Review video comments\nSpoof Following, Fan and Hearts stats\nDisplay the region for all Users\nDisplay User's region, age and video upload count\nSort user's videos by Likes in descending order\nSort user's Liked videos in descending order\nOther:\n\nUpload videos up to 30min. length\nJoin live streams 24/7\nRemoved TikTok Ads\n",
       "name": "TikTok unicorn",
@@ -473,6 +417,17 @@
   ],
   "identifier": "com.example.source",
   "name": "cheaterps ipa library",
-  "news": [],
+  "news": [
+    {
+      "appID": "com.acp",
+      "caption": "welcome to the new repo for. AltStore and Esign where I will actively update the IPAs. ",
+      "date": "2021-1-1",
+      "identifier": "delta-now-available",
+      "imageURL": "",
+      "notify": false,
+      "tintColor": "8A28F7",
+      "title": "welcome to the repo"
+    }
+  ],
   "userInfo": {}
 }
