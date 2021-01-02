@@ -1,82 +1,385 @@
+
 {
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.applecore.kjdhcgvdbnhjchgbenhdjchfrj",
-      "developerName": "acp",
-      "downloadURL": "blob:https://mega.nz/04f8ca51-dde0-4989-bf28-45a5e3235cf1",
-      "iconURL": "",
-      "localizedDescription": "",
-      "name": "byte ver 3",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.idjhgdyeujhcgd",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://mega.nz/04f8ca51-dde0-4989-bf28-45a5e3235cf1",
-      "iconURL": "",
-      "localizedDescription": "",
-      "name": "byte++ ver2",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.dihdjhduxij",
-      "developerName": "acp",
-      "downloadURL": "https://doc-14-8c-docs.googleusercontent.com/docs/securesc/leh5c3gbdlum420mpcr67p1p7fvt8nl3/v1qaspoo2b8ucrb70n2mu6bmo1t5jh84/1609559475000/09685110441173046255/09685110441173046255/1o2Hba-_WFCVlgiG3s4152-3qTt0ehaWT?e=download&authuser=3&nonce=kdeld5iktpukq&user=09685110441173046255&hash=kede3ili6bjoi7cvrirs60ccbo2ihvmq",
-      "iconURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAACXCAMAAAAvQTlLAAAA0lBMVEVfAOXg6///X3gA9bMA/LFYAOTn9f/h7f/l8v8ys8dZIuLk8P+Xf+5PAOP/WnT/V3Lb4v75gJdhIeZyQulQWdo1rcjrwNH/YnFQAOvr+v/d5v6mlPKAXut5UuoA/6/p7P9q8szBvfi7tPeEZeuwovR8WOq3rvZWP99L9L9l9MiPZsaTJMiCI9VoEd6A8dO+7ez/hJT/X2jmVIy9P7HS6/emNb7IRaaXLcen7uL4XHzVTJrtWIX7dYz1Un1zGt20OrXbUZRrNuebh+/JyPnS1fyLduxguYefAAAD4klEQVR4nO2ZbXebNhSAEctFmrE2TWzDvLgOGLvtmrZLkzhLtqX12///S9MVmNq10519wKJn9/mQg5HO4eHq6koinkcQBEEQBEEQBEEQBEEQBEEQBEEQxP8K/f0xL11LGQYvLo742bWUYXDx3RHk9Tzk9d/4prwAXGsde716ffnbm6u3I8dqh14X797fTia/X/sfbrxRf7xe304YY+FPP/h+HN85jdi+1yWzWC9jtnAZsT2vy8mBlxFzGLE9L84Ovfz4XvbA64/Jl17+g7uRbL1eMXbkFd85E2u93k1OeD06y7Cd18X71ou3Xv6fT868mn3hi9uw5bPXw5WrgOlfGn79zF+tl+/Ma8fo7x9bfL9HXh9i/xh3+dV6fTzl9cm1lgdXJ7zij243FZbHE2KunbyTAetFuI4zLH50rVQDNwdi8SfPdZFoGN35rVnsL/qiZcSeFg/XseE6frzvQ27tAHj75maxWNw/9SdYDTBC+mZFfCuANPxb+mCf856FYLouinX2dTFdFkVRLs+kZIFhEoZB8fVg6FSEIo3OpGSBYcCYKCRorZ+rUaCVOeOqqG4G7Kq7/vRUe82nBUvEJluCFyHNkNXXOhpbrzzCiMl8roKEFatuK631YooJPJAJFckiVUqtbVNkrlS6WplmRKmN9KBiAj8QCLGOuhSrvVjzLYKnyyn+TsbmmVAJvONlwe6AqyQUwe6zhWDLDsV2XkKEIT6s1BuOA2smgl6HeEO2XlxJ2zs0nbFT0Z1W48U3U+mVGInAy9BPLT3IsUVEMktEHaAg1QpfIQMYb9B52F3Aaq8EhwTWRizYAnrxIci50QnXGmZZluKAVtlqizaVBJADE1ZRdOwVrrF+wVbYEZzbO6BZ7WcKA5j5yNUSJGYcy4aGLb4E724NaOoEvjiMMUCFnNnk0Ss7nraTtl6RB6Wo08uAg5507VXaeOWivizsaOHfoF6gWq+5YHvwoGMvnuIDZGV9AIYYqTTF0NRrT+tlp2YYNCSqYy8WVGZbsU2byiVTzB0czNI79MpNoRMr2dKZVlu/1lVpbZQtqE3F4ls48DJTVhjhbAB5OejOac/LVKXQlnRrEqW2qPNNE5DWy9O4MgRJkgSbbhdu9OKci3p1SezENPPOSgYraL147QVT3qR+UOhuvURqtjAlC4QIVFYHCMb1YrkbK1PmsZNt8ooUu5oVotuALad5PjYZnc2rYbRLZIlToK5qllme57MmPjAeVvNsqs90dDNVvX2SrRSczZ7bJ+73PSsFVv6Nu/+6PMMY94Y8790hezAbG1xbEARBEARBEARBEARBEARBEARBEEQX/AM/JlE5tVokOAAAAABJRU5ErkJggg==",
-      "localizedDescription": "it is not recommended that you use this version yet",
-      "name": "byte++ ver1",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.dhdyuijhgy",
-      "developerName": "Micheal",
-      "downloadURL": "blob:https://mega.nz/0da6f1f6-5c28-4be5-9af9-a0eef59bdd92",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "experimental version",
-      "name": "tiktok uni",
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iNDS.ipa",
+      "iconURL": "https://tutubox.io/img/iNDS.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iNDS",
       "screenshotURLs": [
         ""
       ],
       "size": 2184796,
       "subtitle": "",
       "tintColor": "018084",
-      "version": "18.0.0",
+      "version": "1",
       "versionDate": "",
-      "versionDescription": ""
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/UTM.ipa",
+      "iconURL": "https://tutubox.io/img/UTM.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "UTM",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/SubwaySurfers.ipa",
+      "iconURL": "https://tutubox.io/img/SubwaySurfers.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it\n\n",
+      "name": "Subway Surfers Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Spotilife+Sposify.ipa",
+      "iconURL": "https://tutubox.io/img/Spotilife+Sposify.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it\n",
+      "name": "Spotilife",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21 "
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/SoundCloud++.ipa",
+      "iconURL": "https://tutubox.io/img/SoundCloud++.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "SoundCloud++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/RetroArch.ipa",
+      "iconURL": "https://tutubox.io/img/RetroArch.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "RetroArch",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Remotr.ipa",
+      "iconURL": "https://tutubox.io/img/Remotr.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Remotr",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Provenance.ipa",
+      "iconURL": "https://tutubox.io/img/Provenance.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Provenance",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Play!.ipa",
+      "iconURL": "https://tutubox.io/img/Play!.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Play",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PlankFilza.ipa",
+      "iconURL": "https://tutubox.io/img/PlankFilza.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "PlankFilza",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PlagueInc.ipa",
+      "iconURL": "https://tutubox.io/img/PlagueInc.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Plague Inc Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PicsArt++.ipa",
+      "iconURL": "https://tutubox.io/img/PicsArt++.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "PicsArt++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PianoTiles2.ipa",
+      "iconURL": "https://tutubox.io/img/PianoTiles2.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Piano Tiles 2 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PewDiePieTuberSimulatorHack.ipa",
+      "iconURL": "https://tutubox.io/img/PewDiePieTuberSimulatorHack.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "PewDiePie Tuber Simulator Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Pangu.ipa",
+      "iconURL": "https://tutubox.io/img/Pangu.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Pangu 9.3.3",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Pandora++.ipa",
+      "iconURL": "https://tutubox.io/img/Pandora++.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Pandora++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PandaHelper.ipa",
+      "iconURL": "https://tutubox.io/img/PandaHelper.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Panda Helper",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/PPSSPP.ipa",
+      "iconURL": "https://tutubox.io/img/PPSSPP.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "PPSP",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.judhjuiji.iuyhgyuiujh",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/MeSNEmu.ipa",
+      "iconURL": "https://tutubox.io/img/MeSNEmu.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "MeSNEmu",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.kjhgftgyhuj",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Etason.ipa",
+      "iconURL": "https://tutubox.io/img/Etason.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it\n_________________\n\niOS 8 jailbreak",
+      "name": "Etson",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.hdgxhyuijdhgcy.oiujchgdhjcuyhg",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AmomgUsHack.ipa",
+      "iconURL": "https://tutubox.io/img/AmomgUsHack.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Among Us-tutubox",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": "updated 1/1/21"
     },
     {
       "beta": false,
@@ -117,10 +420,10 @@
     {
       "beta": false,
       "bundleIdentifier": "com.acp.oiddhduisjh",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://phoenixpwn.com/download.php",
+      "developerName": "",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Phoenix.ipa",
       "iconURL": "https://phoenixpwn.com/phoenix.png",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it\n_________________\n\njailbreak for iOS 9 ",
       "name": "Phonex",
       "screenshotURLs": [
         ""
@@ -128,27 +431,9 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "018084",
-      "version": "1.3b2",
+      "version": "5",
       "versionDate": "2016",
-      "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.acp.oojcihsbyxt",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://mega.nz/file/0dEEyZgL#TdS8dHKtIZJY15WLhKUiOgKbs0eEJoY6QRyKxoPrr5g",
-      "iconURL": "https://iosninja.io/img/ipas/tiktok-plus.jpg",
-      "localizedDescription": " TikTok++ is an amazing tweak that adds a bunch of new features to the TikTok app such as:\n\nFor You:\n\nDownload Videos\nFollowing Page enhancements\nHide all buttons and text views for all videos\nComment more than 90 characters for all videos\nPresent the download button in For You page\nPerform all share actions\nUser:\n\nDownload User's Profile Image\nShow date created for all videos\nView Private or Under Review video comments\nSpoof Following, Fan and Hearts stats\nDisplay the region for all Users\nDisplay User's region, age and video upload count\nSort user's videos by Likes in descending order\nSort user's Liked videos in descending order\nOther:\n\nUpload videos up to 30min. length\nJoin live streams 24/7\nRemoved TikTok Ads\n",
-      "name": "TikTok unicorn",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "18.0.0",
-      "versionDate": "",
-      "versionDescription": "updated 1/1/21"
+      "versionDescription": ""
     },
     {
       "beta": false,
