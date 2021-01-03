@@ -18,9 +18,6 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
       ]
     }
   ],
@@ -28,14 +25,13 @@
     {
       "title": "beta repo!",
       "identifier": "odyssey-x-altstore",
-      "caption": "Supports iOS 13.0-13.7",
+      "caption": "beta",
       "tintColor": "D287F4",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
       "appID": "org.coolstar.odyssey",
       "date": "2020-11-24",
       "notify": true
-   
     }
   ],
   "userInfo": {}
-}n
+}
