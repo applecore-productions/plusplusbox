@@ -1,6 +1,800 @@
-
+COPY
 {
   "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "coolstar",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.0-12.2-12.5.ipa",
+      "iconURL": "https://theodyssey.dev/assets/images/chimera.jpg",
+      "localizedDescription": "iOS 12 jailbreak official download link",
+      "name": "Chimera",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.6.0",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AngryBirds2Hack.ipa",
+      "iconURL": "https://tutubox.io/img/AngryBirds2Hack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Angry Birds 2 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/AnotherEdenHack.ipa",
+      "iconURL": "https://tutubox.io/img/AnotherEdenHack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Another Eden Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Asphalt8Hack.ipa",
+      "iconURL": "https://tutubox.io/img/Asphalt8Hack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Asphalt 8 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Asphalt9Hacked.ipa",
+      "iconURL": "https://tutubox.io/img/Asphalt9Hacked.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Asphalt 9 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/BitLife.ipa",
+      "iconURL": "https://tutubox.io/img/BitLife.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Bitlife Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/BloonsTD6Hack.ipa",
+      "iconURL": "https://tutubox.io/img/BloonsTD6Hack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Bloons BTD 6 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox ",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/CSRRacing2.ipa",
+      "iconURL": "https://tutubox.io/img/CSRRacing2.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "CSR Racing 2 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/CandyCrushSaga.ipa",
+      "iconURL": "https://tutubox.io/img/CandyCrushSaga.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Candy Crush Saga Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/CrossyRoad.ipa",
+      "iconURL": "https://tutubox.io/img/CrossyRoad.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Crossy Road Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/DeadTrigger2.ipa",
+      "iconURL": "https://tutubox.io/img/DeadTrigger2.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Dead Trigger 2 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Deezer++.ipa",
+      "iconURL": "https://tutubox.io/img/Deezer++.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Deezer++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/DolphiniOS.ipa",
+      "iconURL": "https://tutubox.io/img/DolphiniOS.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "DolphiniOS",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FNAF1.ipa",
+      "iconURL": "https://tutubox.io/img/FNAF1.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Five Nights at Freddy's",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FNAF3.ipa",
+      "iconURL": "https://tutubox.io/img/FNAF3.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Five Nights at Freddy's 3",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FNAFHelpedWanted.ipa",
+      "iconURL": "https://tutubox.io/img/FNAFHelpedWanted.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Five Nights At Freddys FNAF Help Wanted",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FNAFPizzeriaSimulator.ipa",
+      "iconURL": "https://tutubox.io/img/FNAFPizzeriaSimulator.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Five Nights At Freddies FNAF Pizzeria Simulator",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/FNAFUltimateCustomNight.ipa",
+      "iconURL": "https://tutubox.io/img/FNAFUltimateCustomNight.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Five Nights At Freddys FNAF Ultimate Custom Night",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GRIDAutosport.ipa",
+      "iconURL": "https://tutubox.io/img/GRIDAutosport.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "GRID Autosport",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GTAVC.ipa",
+      "iconURL": "https://tutubox.io/img/GTAVC.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "GTA Vice City Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GardenscapesHack.ipa",
+      "iconURL": "https://tutubox.io/img/GardenscapesHack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Gardenscapes Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GarenaFreeFireHack.ipa",
+      "iconURL": "https://tutubox.io/img/GarenaFreeFireHack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Garena Free Fire Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Geekbench5Pro.ipa",
+      "iconURL": "https://tutubox.io/img/Geekbench5Pro.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Geekbench 5",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": "\\will be disabled in public versions of AltStore until it is finished."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/HillClimb2.ipa",
+      "iconURL": "https://tutubox.io/img/HillClimb2.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Hill Climb 2 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": "\\"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/HomeDepot934.ipa",
+      "iconURL": "https://tutubox.io/img/HomeDepot934.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Home Depot (9.3.4-9)",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/GeometryDash.ipa",
+      "iconURL": "https://tutubox.io/img/GeometryDash.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Geometry Dash",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": " "
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/HomeDepot841.ipa",
+      "iconURL": "https://tutubox.io/img/HomeDepot841.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Home Depot (8.4.1)",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/LastDayOnEarthSurvivalHack.ipa",
+      "iconURL": "https://tutubox.io/img/LastDayOnEarthSurvivalHack.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Last Day On Earth Survival Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/LeagueOfLegends.ipa",
+      "iconURL": "https://tutubox.io/img/LeagueOfLegends.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "League Of Legends",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/MAME4iOS.ipa",
+      "iconURL": "https://tutubox.io/img/MAME4iOS.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "MAME4iOS",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": " "
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/ShadowFight3.ipa",
+      "iconURL": "https://tutubox.io/img/ShadowFight3.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Shadow Fight 3 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/RealRacing3.ipa",
+      "iconURL": "https://tutubox.io/img/RealRacing3.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "Real Racing 3 Hack",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/TutuAppVIP.ipa",
+      "iconURL": "https://tutubox.io/img/TutuAppVIP.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "TutuApp VIP",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iDos2.ipa",
+      "iconURL": "https://tutubox.io/img/iDos2.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iDOS 2",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/YouTubeMusic++.ipa",
+      "iconURL": "https://tutubox.io/img/YouTubeMusic++.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "YouTube Music ++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/unc0ver.ipa",
+      "iconURL": "https://tutubox.io/img/unc0ver.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "unc0ver-tutubox ",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/kinemaster++.ipa",
+      "iconURL": "https://tutubox.io/img/kinemaster++.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "KineMaster++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iTransmission.ipa",
+      "iconURL": "https://tutubox.io/img/iTransmission.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iTransmission",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iSpoofer.ipa",
+      "iconURL": "https://tutubox.io/img/iSpoofer.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iSpoofer",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iSSB.ipa",
+      "iconURL": "https://tutubox.io/img/iSSB.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iSSB",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iPoGo.ipa",
+      "iconURL": "https://tutubox.io/img/iPoGo.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iPoGo",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": "use this over Ispoffer "
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iDos.ipa",
+      "iconURL": "https://tutubox.io/img/iDos.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "iDOS",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/Watusi.ipa",
+      "iconURL": "https://tutubox.io/img/Watusi.png",
+      "localizedDescription": "this app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "WhatsApp++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2021-1-2",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "tutubox",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/VideoStar++.ipa",
+      "iconURL": "https://tutubox.io/img/VideoStar++.png",
+      "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
+      "name": "VideoStar++",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2021-1-2",
+      "versionDescription": ""
+    },
     {
       "beta": false,
       "bundleIdentifier": "",
@@ -62,7 +856,7 @@
       "downloadURL": "https://tutubox.io/apps/Jailbreak/Spotilife+Sposify.ipa",
       "iconURL": "https://tutubox.io/img/Spotilife+Sposify.png",
       "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it\n",
-      "name": "Spotilife",
+      "name": "Spotify++",
       "screenshotURLs": [
         ""
       ],
@@ -172,9 +966,7 @@
       "localizedDescription": "This app download is hosted by tutubox not me \nIf this app is not downloading or there is a more up to date version\nput a report on my GitHub and I will fix it",
       "name": "PlankFilza",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
       "size": 2184796,
       "subtitle": "",
