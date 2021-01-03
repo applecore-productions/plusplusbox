@@ -1,18 +1,18 @@
 {
-  "name": "Odyssey",
-  "identifier": "org.coolstar.odysseyaltstore",
-  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
+  "name": "acp beta",
+  "identifier": "com.acp.beta",
+  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/apps1.json",
   "apps": [
     {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "subtitle": "A new jailbreak for a new era.",
-      "version": "1.2.2",
-      "versionDate": "2020-11-26",
-      "versionDescription": "Now with support from 13.0 all the way to 13.7.",
-      "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "name": "gbox",
+      "bundleIdentifier": "com.acp.gbox",
+      "developerName": "applecore team",
+      "subtitle": "beta repo.",
+      "version": "1.0.0",
+      "versionDate": "2020-12-31",
+      "versionDescription": "beta repo.",
+      "downloadURL": "https://uc804dc6e67f7b05513fb66b734d.dl.dropboxusercontent.com/cd/0/get/BGXjfJdNMOiqyaSiaHk2igkR3H-umrIeFv79Ni1dfIApyO3-_pLQK4z_srOME1cbag44T3fpZxgS6UD5rzjfa9hgqCv-bkjyEYB7DrI6mYwZPM9Q1xqYYIHQv9NxI-fCD8Q/file#",
+      "localizedDescription": "for testing purposes only.",
       "iconURL": "https://theodyssey.dev/assets/images/icon.png",
       "tintColor": "D287F4",
       "size": 26463301,
@@ -26,7 +26,7 @@
   ],
   "news": [
     {
-      "title": "Odyssey 1.2 now available!",
+      "title": "beta repo!",
       "identifier": "odyssey-x-altstore",
       "caption": "Supports iOS 13.0-13.7",
       "tintColor": "D287F4",
@@ -34,25 +34,7 @@
       "appID": "org.coolstar.odyssey",
       "date": "2020-11-24",
       "notify": true
-    },
-    {
-      "title": "Odyssey Now Available!",
-      "identifier": "odyssey-x-altstore",
-      "caption": "A new jailbreak for a new era.",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-08-20",
-      "notify": true
-    },
-	    {
-      "title": "Odyssey Source",
-      "identifier": "welcome-to-odysseysource",
-      "caption": "It's official. Odyssey is distributing via AltStore.",
-      "tintColor": "D287F4",
-      "url": "https://altstore.theodyssey.dev",
-      "date": "2020-08-12T12:59:00-07:00",
-      "notify": false
+   
     }
   ],
   "userInfo": {}
