@@ -1,5 +1,24 @@
+COPY
 {
   "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "coolstar",
+      "downloadURL": "http://download.cokernutx.com/ipadownload/Odyssey-iOS-130-137-Jailbreak.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "use this odyssey until I can get the official link to work (hosted by cokernut x)",
+      "name": "odyssey alt",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.2.2",
+      "versionDate": "1-2-21",
+      "versionDescription": ""
+    },
     {
       "beta": false,
       "bundleIdentifier": "",
