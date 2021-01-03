@@ -1,11 +1,10 @@
-
 {
   "apps": [
     {
       "beta": false,
       "bundleIdentifier": "",
-      "developerName": "iosninja",
-      "downloadURL": "https://download.wetransfer.com//us2/f25f9d07dda91acdcf2fcd6eefc7446620200906203654/869a1f1057eb2a86fd02c6ec64eea9087f6d7617/Reddit-plus-plus-T1.2.ipa?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDk3MTUyOTIsInVuaXF1ZSI6ImYyNWY5ZDA3ZGRhOTFhY2RjZjJmY2Q2ZWVmYzc0NDY2MjAyMDA5MDYyMDM2NTQiLCJmaWxlbmFtZSI6IlJlZGRpdC1wbHVzLXBsdXMtVDEuMi5pcGEiLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS51cy1lYXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci8xOGI1MDZiZWE2ZWJlMDQwZDNmYjk4Yzc5YzFhZjgxOWZmODBhYmJiOWQ1N2Q3ZDdmMjU0MTM0NjViYWYxMGI1MjBlZDFjOWU1ZTU4ZTJhYTY2YjkyZiIsImZpbmdlcnByaW50IjoiODY5YTFmMTA1N2ViMmE4NmZkMDJjNmVjNjRlZWE5MDg3ZjZkNzYxNyIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiZjI1ZjlkMDdkZGE5MWFjZGNmMmZjZDZlZWZjNzQ0NjYyMDIwMDkwNjIwMzY1NFwiLFwiZG93bmxvYWRfaWRcIjoxMTE0MTEwMTgwNX19In0._9SsNG4DVaLo-OGL5AgHbtTFFmDwU59M9Cr8bzgDFpI",
+      "developerName": "",
+      "downloadURL": "https://uc06cf5d23ca6d74914c30dccb64.dl.dropboxusercontent.com/cd/0/get/BGWSrhJO9oZRcFMdV12uhE-BEl4V5ItXRajLd_IhorVILbOKczDZKNJmtCXiYerF8z91ytFGjU-JFGtOuYxtTf4ugNAKE7LMDAvDFO76Z7QIil5YzwlKZj-Gn2tfQX9YYZU/file?dl=1#",
       "iconURL": "https://iosninja.io/img/ipas/reddit-icon.jpg",
       "localizedDescription": "Reddit++ is a tweak that adds a number of useful new features and improvements to the Reddit app. Here's the list of features offered by Reddit++:\n\nDownload videos in highest quality along with audio\nDownload one or more images in gallery posts\nHide awards\nShow NSFW posts\nHide streams\nSupports posts with Imgur, gyfcat and other embedded media\nUndo scrolling if top bar is tapped\nSecure authentication",
       "name": "Reddit ++ (beta)",
