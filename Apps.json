@@ -1,37 +1,16 @@
+COPY
 {
   "apps": [
     {
       "beta": false,
       "bundleIdentifier": "",
       "developerName": "Riley Testut",
-      "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=BLal&id=1GqOzIoZOey5KinmXQAOi7FN70ezZ9vSq",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1GqOzIoZOey5KinmXQAOi7FN70ezZ9vSq",
       "iconURL": "",
-      "localizedDescription": "this app is in beta to add to the repo",
-      "name": "Cercube experimental 2",
+      "localizedDescription": "this version is for testing only and will most likely not work, use the original Cercube in the repo instead",
+      "name": "Cercube Alt",
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=sjYn&id=1GqOzIoZOey5KinmXQAOi7FN70ezZ9vSq",
-      "iconURL": "",
-      "localizedDescription": "this app is currently being tested",
-      "name": "Cercube experimental1",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        ""
       ],
       "size": 2184796,
       "subtitle": "",
@@ -1378,9 +1357,9 @@
       "beta": false,
       "bundleIdentifier": "com.acp.yibciycfyi",
       "developerName": "",
-      "downloadURL": "http://www.cokernutx.com/ipa2/cercube5.ipa",
+      "downloadURL": "https://uc5003efc43be62aa3a1d8af5d03.dl.dropboxusercontent.com/cd/0/get/BGUgZRLOdQ-9PYGVDeAsVHwBHK_Ph8MTe-w79KLwY9lLJMYk9P2qOCsdMKcUAYRYvfdcHY3P4PuAIwd0gGX7EYtZwzwgDWgmCYs7ykEEzlAIr0igHWsCvUG5ftmn38v-NMA/file?dl=1#",
       "iconURL": "https://iosninja.io/img/ipas/cercube.png",
-      "localizedDescription": "Cercube will allow you to enjoy YouTube without ads and many other added features\n\n",
+      "localizedDescription": "this is a temporary version until I can get my drive link to work\n",
       "name": "ceracube ",
       "screenshotURLs": [
         ""
@@ -1390,7 +1369,7 @@
       "tintColor": "018084",
       "version": "2.11",
       "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": ""
+      "versionDescription": "Cercube will allow you to enjoy YouTube without ads and many other added features\n"
     },
     {
       "beta": false,
