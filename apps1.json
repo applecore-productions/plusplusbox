@@ -1,22 +1,26 @@
 {
-  "name": "Applecore IPA Archive beta",
-  "identifier": "com.acp.aiab",
-  "sourceURL": " ",
+  "name": "Odyssey",
+  "identifier": "org.coolstar.odysseyaltstore",
+  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
-      "name": "gbox",
-      "bundleIdentifier": "com.acp.gbox",
-      "developerName": "ACP",
-      "subtitle": "gbox ipa here.",
-      "version": "1",
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey Team",
+      "subtitle": "A new jailbreak for a new era.",
+      "version": "1.2.2",
       "versionDate": "2020-11-26",
-      "versionDescription": "this is a beta and will most likely not work",
-      "downloadURL": "https://uc804dc6e67f7b05513fb66b734d.dl.dropboxusercontent.com/cd/0/get/BGXjfJdNMOiqyaSiaHk2igkR3H-umrIeFv79Ni1dfIApyO3-_pLQK4z_srOME1cbag44T3fpZxgS6UD5rzjfa9hgqCv-bkjyEYB7DrI6mYwZPM9Q1xqYYIHQv9NxI-fCD8Q/file#",
-      "localizedDescription": "beta verson for the main repo"
+      "versionDescription": "Now with support from 13.0 all the way to 13.7.",
+      "downloadURL": "https://github.com/TheOdysseyJB/Odyssey/releases/download/1.2.2/Odyssey-1.2.2.ipa",
+      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
+      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
       "tintColor": "D287F4",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
+        "https://theodyssey.dev/assets/images/ss-1.png",
+        "https://theodyssey.dev/assets/images/ss-2.png",
+        "https://theodyssey.dev/assets/images/ss-3.png"
       ]
     }
   ],
