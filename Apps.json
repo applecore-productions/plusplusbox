@@ -2,6 +2,60 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "tweak box ",
+      "downloadURL": "https://raw.githubusercontent.com/FreeIpa19/IPA/master/TweetDeck_2.1.ipa",
+      "iconURL": "https://img.tweakbox.pro/sideloadbox/tweetdeck",
+      "localizedDescription": "",
+      "name": "TweetDeck",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1",
+      "versionDate": "2021-1-3",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "Zenith Dev Team",
+      "downloadURL": "https://cdn.dragondev.party/archived/eclipse.mobileconfig",
+      "iconURL": "https://img.tweakbox.pro/sideloadbox/eclipse",
+      "localizedDescription": "this app is hosted by tweak box not me",
+      "name": "Eclipse",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "emulator",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "2021-1-3",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "Brandon plank",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/3.8/org.brandonplank.flappybird.ipa",
+      "iconURL": "https://iosninja.io/img/ipas/flappybird.png",
+      "localizedDescription": "flappy bird but updated for latest devices",
+      "name": "Flappy Bird",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "3.8",
+      "versionDate": "2021-1-3",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "",
       "developerName": "",
       "downloadURL": "https://uc06cf5d23ca6d74914c30dccb64.dl.dropboxusercontent.com/cd/0/get/BGWSrhJO9oZRcFMdV12uhE-BEl4V5ItXRajLd_IhorVILbOKczDZKNJmtCXiYerF8z91ytFGjU-JFGtOuYxtTf4ugNAKE7LMDAvDFO76Z7QIil5YzwlKZj-Gn2tfQX9YYZU/file?dl=1#",
@@ -39,27 +93,9 @@
     {
       "beta": false,
       "bundleIdentifier": "",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://drive.google.com/uc?export=download&id=1GqOzIoZOey5KinmXQAOi7FN70ezZ9vSq",
-      "iconURL": "",
-      "localizedDescription": "this version is for testing only and will most likely not work, use the original Cercube in the repo instead",
-      "name": "Cercube Alt",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.3b2",
-      "versionDate": "",
-      "versionDescription": ""
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "",
-      "developerName": "Riley Testut",
+      "developerName": "gbox team",
       "downloadURL": "https://ucda9365db901c713920d8b97142.dl.dropboxusercontent.com/cd/0/get/BGW3_4uec8pbh-PERcDeOvfvc8_LBMK16qWZxEH_WPmh2-aIiWYcvkKndSUsdBgFWMwh06FkXGaQYBLGLHzFf6jlolPEsJmTBiYZ9pxNJWQQKpYhNbkQAAag-6VGMdiGa6Q/file?dl=1#",
-      "iconURL": "",
+      "iconURL": "https://gbox.run/Public/resources/icon256.png",
       "localizedDescription": "",
       "name": "GBox",
       "screenshotURLs": [
@@ -68,7 +104,7 @@
       "size": 2184796,
       "subtitle": "",
       "tintColor": "018084",
-      "version": "1.3b2",
+      "version": "1",
       "versionDate": "1-3-21",
       "versionDescription": ""
     },
@@ -78,7 +114,7 @@
       "developerName": "coolstar",
       "downloadURL": "http://download.cokernutx.com/ipadownload/Odyssey-iOS-130-137-Jailbreak.ipa",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "use this odyssey until I can get the official link to work (hosted by cokernut x)",
+      "localizedDescription": "use only of official app is not working",
       "name": "odyssey alt",
       "screenshotURLs": [
         ""
