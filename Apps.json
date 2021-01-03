@@ -1,24 +1,5 @@
-COPY
 {
   "apps": [
-    {
-      "beta": false,
-      "bundleIdentifier": "",
-      "developerName": "coolstar",
-      "downloadURL": "http://download.cokernutx.com/ipadownload/Odyssey-iOS-130-137-Jailbreak.ipa",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "localizedDescription": "use this odyssey until I can get the official link to work (hosted by cokernut x)",
-      "name": "odyssey alt",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 2184796,
-      "subtitle": "",
-      "tintColor": "018084",
-      "version": "1.2.2",
-      "versionDate": "1-2-21",
-      "versionDescription": ""
-    },
     {
       "beta": false,
       "bundleIdentifier": "",
@@ -1321,7 +1302,7 @@ COPY
       "beta": false,
       "bundleIdentifier": "com.acp.yibciycfyi",
       "developerName": "",
-      "downloadURL": "http://www.cokernutx.com/ipa2/cercube5.ipa",
+      "downloadURL": "http://wcloud.userscloud.com/d/filta6qmtn2fvxijspj4vuswbykbnsjlisv6wxiocvcqbt4f4dv33pqfdf4zcagxn4pbnbwo/CercubeProVP9SB.ipa",
       "iconURL": "https://iosninja.io/img/ipas/cercube.png",
       "localizedDescription": "Cercube will allow you to enjoy YouTube without ads and many other added features\n\n",
       "name": "ceracube ",
@@ -1591,6 +1572,16 @@ COPY
   "identifier": "com.example.source",
   "name": "ACP repo",
   "news": [
+    {
+      "appID": "com.rileytestut.Delta",
+      "caption": "I have updated Cercube put an issue in GitHub if the link is not working",
+      "date": "2020-1-2",
+      "identifier": "delta-now-available",
+      "imageURL": "",
+      "notify": false,
+      "tintColor": "8A28F7",
+      "title": "Cercube updated"
+    },
     {
       "appID": "com.acp",
       "caption": "welcome to the new repo for. AltStore and Esign where I will actively update the IPAs. ",
