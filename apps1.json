@@ -1,23 +1,36 @@
 {
-  "name": "acp beta",
-  "identifier": "com.acp.beta",
+  "name": "acpb",
+  "identifier": "com.acp.uh",
   "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/apps1.json",
   "apps": [
     {
-      "name": "gbox",
-      "bundleIdentifier": "com.nes.gbox",
+      "name": "youtube++",
+      "bundleIdentifier": "applecore",
       "developerName": "applecore team",
-      "subtitle": "beta repo.",
+      "subtitle": "tweaked youtube.",
       "version": "1.0.0",
-      "versionDate": "2020-12-31",
+      "versionDate": "2020-11-26",
       "versionDescription": "beta.",
       "downloadURL": "https://uc804dc6e67f7b05513fb66b734d.dl.dropboxusercontent.com/cd/0/get/BGXjfJdNMOiqyaSiaHk2igkR3H-umrIeFv79Ni1dfIApyO3-_pLQK4z_srOME1cbag44T3fpZxgS6UD5rzjfa9hgqCv-bkjyEYB7DrI6mYwZPM9Q1xqYYIHQv9NxI-fCD8Q/file#",
-      "localizedDescription": "for testing purposes only.",
-      "iconURL": "0",
-      "tintColor": "00ff00",
+      "localizedDescription": "beta version.",
+      "iconURL": " ",
+      "tintColor": "0",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
+        "
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Odyssey 1.2 now available!",
+      "identifier": "odyssey-x-altstore",
+      "caption": "Supports iOS 13.0-13.7",
+      "tintColor": "D287F4",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-11-24". 
     }
   ],
   "userInfo": {}
