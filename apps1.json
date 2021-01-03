@@ -18,19 +18,6 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
-      ]
-    }
-  ],
-  "news": [
-    {
-      "title": "beta repo!",
-      "identifier": "odyssey-x-altstore",
-      "caption": "beta",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-11-24",
-      "notify": true
     }
   ],
   "userInfo": {}
