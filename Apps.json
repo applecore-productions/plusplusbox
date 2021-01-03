@@ -1,5 +1,7 @@
-COPY
 {
+  "name": "Applecore IPA Archive",
+  "identifier": "com.acp.archive",
+  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/Apps.json",
   "apps": [
     {
       "beta": false,
