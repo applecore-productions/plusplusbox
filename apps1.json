@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "gbox",
-      "bundleIdentifier": "com.acp.gbox",
+      "bundleIdentifier": "com.nes.gbox",
       "developerName": "applecore team",
       "subtitle": "beta repo.",
       "version": "1.0.0",
