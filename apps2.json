@@ -1,0 +1,23 @@
+"name": "Applecore IPA Archive",
+  "identifier": "com.acp.archive",
+  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/Apps.json",
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.acp.b2",
+      "developerName": "acp",
+      "downloadURL": "https://uc5003efc43be62aa3a1d8af5d03.dl.dropboxusercontent.com/cd/0/get/BGUgZRLOdQ-9PYGVDeAsVHwBHK_Ph8MTe-w79KLwY9lLJMYk9P2qOCsdMKcUAYRYvfdcHY3P4PuAIwd0gGX7EYtZwzwgDWgmCYs7ykEEzlAIr0igHWsCvUG5ftmn38v-NMA/file?dl=1#",
+      "iconURL": " ",
+      "localizedDescription": "this version is for testing only and will most likely not work, use the original Cercube in the repo instead",
+      "name": "Cercube",
+      "screenshotURLs": [
+      "size": 2184796,
+      "subtitle": "beta 2",
+      "tintColor": "018084",
+      "version": "1.0.0",
+      "versionDate": "2021-1-3",
+      "versionDescription": "beta"
+      }
+  ],
+  "userInfo": {}
+}    
