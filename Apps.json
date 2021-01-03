@@ -44,7 +44,7 @@
       "beta": false,
       "bundleIdentifier": "",
       "developerName": "Riley Testut",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1BTWuvUwy5prIwzFjOKFudbjWlY_qaB19",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
       "name": "GBox",
@@ -1648,7 +1648,7 @@
     }
   ],
   "identifier": "com.example.source",
-  "name": "ACP repo",
+  "name": "Applecore IPA Archive",
   "news": [
     {
       "appID": "com.acp",
