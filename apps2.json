@@ -3,14 +3,14 @@
   "identifier": "com.applecore.beta",
   "apps": [
     {
-      "name": "Unc0ver", 
-      "bundleIdentifier": "com.xmu.undesimus",
-      "developerName": "Pwn2ownd",
+      "name": "asb", 
+      "bundleIdentifier": "com.applecore.asb",
+      "developerName": "Applecore",
       "subtitle": "jailbreak.",
       "version": "3.5.1",
       "versionDate": "2021-1-3",
       "versionDescription": "Now with support from 13.0 all the way to 13.5.",
-      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+      "downloadURL": "https://uc0912b03aaffd2c662efa46fa39.dl.dropboxusercontent.com/cd/0/get/BGV5uwAuBzC4bk0gHQ3iH7H4qo5ONSZ8pU3bf1KrFw4svEVrwi6D0xIGuA5-CQ4uY5cFZpwMI8WhYNo8d3Ze6tVFi0KowCiVurRlX9OJDVz3e2BxN_fYRzCsEVNIm3u-N7I/file?dl=1#",
       "localizedDescription": "Supporting iOS Versions: 13.0 - 13.5.",
       "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Func0verteam&psig=AOvVaw0xbENUiAfnEAJSspufrkI6&ust=1609625954085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjF2ovi--0CFQAAAAAdAAAAABAD",
       "tintColor": "00ff00",
