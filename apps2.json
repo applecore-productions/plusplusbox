@@ -1,23 +1,59 @@
-"name": "Applecore IPA Archive",
-  "identifier": "com.acp.archive",
-  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/Apps.json",
+{
+  "name": "Applecore Archive IPA beta repo",
+  "identifier": "com.applecore.beta",
+  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
+      "name": "Unc0ver",
+      "bundleIdentifier": "com.acp.dbigdgii",
+      "developerName": "Pwn2ownd",
+      "subtitle": "jailbreak.",
+      "version": "3.5.1",
+      "versionDate": "2020-11-26",
+      "versionDescription": "Now with support from 13.0 all the way to 13.5.",
+      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.5.",
+      "iconURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Func0verteam&psig=AOvVaw0xbENUiAfnEAJSspufrkI6&ust=1609625954085000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjF2ovi--0CFQAAAAAdAAAAABAD",
+      "tintColor": "00ff00",
+      "size": 26463301,
       "beta": false,
-      "bundleIdentifier": "com.acp.b2",
-      "developerName": "acp",
-      "downloadURL": "https://uc5003efc43be62aa3a1d8af5d03.dl.dropboxusercontent.com/cd/0/get/BGUgZRLOdQ-9PYGVDeAsVHwBHK_Ph8MTe-w79KLwY9lLJMYk9P2qOCsdMKcUAYRYvfdcHY3P4PuAIwd0gGX7EYtZwzwgDWgmCYs7ykEEzlAIr0igHWsCvUG5ftmn38v-NMA/file?dl=1#",
-      "iconURL": " ",
-      "localizedDescription": "this version is for testing only and will most likely not work, use the original Cercube in the repo instead",
-      "name": "Cercube",
       "screenshotURLs": [
-      "size": 2184796,
-      "subtitle": "beta 2",
-      "tintColor": "018084",
-      "version": "1.0.0",
-      "versionDate": "2021-1-3",
-      "versionDescription": "beta"
-      }
+        "https://theodyssey.dev/assets/images/ss-1.png",
+        "https://theodyssey.dev/assets/images/ss-2.png",
+        "https://theodyssey.dev/assets/images/ss-3.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "no news to display",
+      "identifier": "acpxchp",
+      "caption": "Support for altstore in the works",
+      "tintColor": "00ff00",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-11-24",
+      "notify": true
+    },
+    {
+      "title": "Odyssey Now Available!",
+      "identifier": "odyssey-x-altstore",
+      "caption": "A new jailbreak for a new era.",
+      "tintColor": "00ff00",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-08-20",
+      "notify": true
+    },
+	    {
+      "title": "Odyssey Source",
+      "identifier": "welcome-to-odysseysource",
+      "caption": "It's official. Odyssey is distributing via AltStore.",
+      "tintColor": "00ff00",
+      "url": "https://altstore.theodyssey.dev",
+      "date": "2020-08-12T12:59:00-07:00",
+      "notify": false
+    }
   ],
   "userInfo": {}
-}    
+}
