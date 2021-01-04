@@ -1,11 +1,10 @@
 {
   "name": "Applecore Archive IPA beta repo",
   "identifier": "com.applecore.beta",
-  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
       "name": "Unc0ver", 
-      "bundleIdentifier": "com.myname.myapp",
+      "bundleIdentifier": "com.xmu.undesimus",
       "developerName": "Pwn2ownd",
       "subtitle": "jailbreak.",
       "version": "3.5.1",
