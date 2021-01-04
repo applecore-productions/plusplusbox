@@ -4,7 +4,8 @@
   "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
-      "name": "Unc0ver",
+      "name": "Unc0ver", 
+      "bundleIdentifier": "com.myname.myapp",
       "developerName": "Pwn2ownd",
       "subtitle": "jailbreak.",
       "version": "3.5.1",
