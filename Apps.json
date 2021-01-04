@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "",
+      "developerName": "box team",
+      "downloadURL": "https://ucf93aa4a404813702b357fe73c5.dl.dropboxusercontent.com/cd/0/get/BGUUa_CFI2mQkhNLec85zWuzq51PQE-6d2fv159pI0i-NQ_mtAnuoWHHVf8L3q2LDhAfiM4hZB_AQq2m6q_xw4WQyBc6VNSaf_mHpqDboV2rV11jRBNrnjsXRIJA-vmLx8g/file?dl=1#",
+      "iconURL": "https://gbox.run/Public/resources/icon256.png",
+      "localizedDescription": "use if gbox is broken",
+      "name": "GBox alt",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "",
+      "tintColor": "018084",
+      "version": "1.3b2",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "tweak box ",
       "downloadURL": "https://raw.githubusercontent.com/FreeIpa19/IPA/master/TweetDeck_2.1.ipa",
@@ -94,7 +112,7 @@
       "beta": false,
       "bundleIdentifier": "",
       "developerName": "gbox team",
-      "downloadURL": "https://ucda9365db901c713920d8b97142.dl.dropboxusercontent.com/cd/0/get/BGW3_4uec8pbh-PERcDeOvfvc8_LBMK16qWZxEH_WPmh2-aIiWYcvkKndSUsdBgFWMwh06FkXGaQYBLGLHzFf6jlolPEsJmTBiYZ9pxNJWQQKpYhNbkQAAag-6VGMdiGa6Q/file?dl=1#",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1243DL_prMToJPligFO4t9Cjwz4vdXLDR",
       "iconURL": "https://gbox.run/Public/resources/icon256.png",
       "localizedDescription": "",
       "name": "GBox",
