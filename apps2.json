@@ -5,7 +5,6 @@
   "apps": [
     {
       "name": "Unc0ver",
-      "bundleIdentifier": "com.acp.*",
       "developerName": "Pwn2ownd",
       "subtitle": "jailbreak.",
       "version": "3.5.1",
