@@ -55,7 +55,37 @@
       "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak-200x150.png",
       "tintColor": "BA55D3",
       "size": 65383246,
-      		]
+   ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Odyssey 1.2 and u0 5.3.1 are the latest updates",
+      "identifier": "latest-jailbreaks",
+      "caption": "12-13.7",
+      "tintColor": "00ff00",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "com.acp.djdhdy",
+      "date": "2020-11-24",
+      "notify": true
+    },
+    {
+      "title": "nothing to see here",
+      "identifier": "no-no-no",
+      "caption": "there is no news to display",
+      "tintColor": "00ff00",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-08-20",
+      "notify": false
+    },
+	    {
+      "title": "ACP archive (beta)",
+      "identifier": "just-a-beta",
+      "caption": "this is the first beta of the ACP archive project",
+      "tintColor": "D287F4",
+      "date": "2021-2-12T12:59:00-07:00",
+      "notify": false
     }
   ],
   "userInfo": {}
