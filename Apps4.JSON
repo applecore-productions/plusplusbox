@@ -18,73 +18,37 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
-         	]
-    },
-    {
-      "name": "Instagram++",
-      "bundleIdentifier": "com.instagram.apprefresh",
-      "developerName": "Rocket Team",
-      "subtitle": "Instagram 123.0 | Rocket 3.6.8 | NoAds",
-      "version": "123.0",
-      "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://dl.orangedox.com/PandaApp/4?dl=1",
-      "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
-      "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
-      "tintColor": "00ff00",
-      "size": 65383246,
-      "screenshotURLs": [
-        "https://i.imgur.com/hQDBkcn.jpg",
-	"https://i.imgur.com/sXWyhUO.jpg",
-	"https://i.imgur.com/UA5IKKv.jpg"
-	       ]
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "u0 Team",
-      "subtitle": "jailbreak for ios 11-13.5",
-      "version": "3.5.1",
-      "versionDate": "2020-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
-      "localizedDescription": "well its not the best JB but if its what you want to use",
-      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak-200x150.png",
-      "tintColor": "000000",
-      "size": 65383246,
-      "screenshotURLs": [
+	      
       ]
     }
   ],
   "news": [
     {
-      "title": "jailbreak checker",
+      "title": "Odyssey 1.2 now available!",
       "identifier": "odyssey-1.2-available",
       "caption": "Supports iOS 13.0-13.7",
-      "tintColor": "00ff00",
-      "imageURL": "you can jailbreak ios 11-13 with unc0ver and odyssey",
-      "appID": "com.acp.jbc",
+      "tintColor": "D287F4",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
       "date": "2020-11-24",
       "notify": true
     },
     {
-      "title": "applecore box beta",
+      "title": "Odyssey Now Available!",
       "identifier": "odyssey-x-altstore",
-      "caption": "please remember that this is only a beta and some things might not work",
-      "tintColor": "00ff00",
+      "caption": "A new jailbreak for a new era.",
+      "tintColor": "D287F4",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "com.acp.beta",
+      "appID": "org.coolstar.odyssey",
       "date": "2020-08-20",
       "notify": true
     },
 	    {
-      "title": "welcome the the applecore archive",
-      "identifier": "welcome-to-the-acp-archive",
-      "caption": "welcome to the new soon to be called applecore box altsource!",
-      "tintColor": "00ff00",
+      "title": "Odyssey Source",
+      "identifier": "welcome-to-odysseysource",
+      "caption": "It's official. Odyssey is distributing via AltStore.",
+      "tintColor": "D287F4",
+      "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
     }
