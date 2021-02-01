@@ -24,26 +24,5 @@
       ]
     }
   ],
-  "news": [
-    {
-      "title": "Odyssey Now Available!",
-      "identifier": "odyssey-x-altstore",
-      "caption": "A new jailbreak for a new era.",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-08-20",
-      "notify": true
-    },
-	    {
-      "title": "Odyssey Source",
-      "identifier": "welcome-to-odysseysource",
-      "caption": "It's official. Odyssey is distributing via AltStore.",
-      "tintColor": "D287F4",
-      "url": "https://altstore.theodyssey.dev",
-      "date": "2020-08-12T12:59:00-07:00",
-      "notify": false
-    }
-  ],
   "userInfo": {}
 }
