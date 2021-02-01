@@ -21,6 +21,22 @@
 	      ]
     },
     {
+      "name": "chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "coolstar",
+      "subtitle": "jailbreak for ios 12",
+      "version": "1.6.1",
+      "versionDate": "2021-08-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.1-12.2-12.5.ipa",
+      "localizedDescription": "ios 12 jailbreak (12.2-12.5.1).",
+      "iconURL": "https://www.ipodhacks142.com/wp-content/uploads/2019/04/ios-12.0-to-12.1.2-jailbreak-chimera-nocomputer.jpg",
+      "tintColor": "00ff00",
+      "size": 65383246,
+      "screenshotURLs": [
+	      ]
+    },
+    {
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "u0 team",
@@ -34,6 +50,7 @@
       "tintColor": "000000",
       "size": 65383246,
       "screenshotURLs": [
+
 
       ]
     }
