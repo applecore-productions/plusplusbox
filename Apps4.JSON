@@ -34,12 +34,27 @@
       "downloadURL": "https://dl.orangedox.com/PandaApp/4?dl=1",
       "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
       "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
-      "tintColor": "BA55D3",
+      "tintColor": "000000",
       "size": 65383246,
       "screenshotURLs": [
         "https://i.imgur.com/hQDBkcn.jpg",
 	"https://i.imgur.com/sXWyhUO.jpg",
 	"https://i.imgur.com/UA5IKKv.jpg"
+	       ]
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "u0 Team",
+      "subtitle": "jailbreak for ios 11-13.5",
+      "version": "3.5.1",
+      "versionDate": "2020-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
+      "localizedDescription": "well its not the best JB but if its what you want to use",
+      "iconURL": "https://tweak-box.com/wp-content/uploads/2019/04/unc0ver-jailbreak-200x150.png",
+      "tintColor": "BA55D3",
+      "size": 65383246,
       ]
     }
   ],
