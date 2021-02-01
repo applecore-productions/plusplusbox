@@ -60,22 +60,32 @@
   ],
   "news": [
     {
-      "title": "Odyssey 1.2 and u0 5.3.1 are the latest updates",
-      "identifier": "latest-jailbreaks",
-      "caption": "12-13.7",
-      "tintColor": "00ff00",
+      "title": "Odyssey 1.2 now available!",
+      "identifier": "odyssey-1.2-available",
+      "caption": "Supports iOS 13.0-13.7",
+      "tintColor": "D287F4",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "com.acp.djdhdy",
+      "appID": "org.coolstar.odyssey",
       "date": "2020-11-24",
       "notify": true
-
+    },
+    {
+      "title": "Odyssey Now Available!",
+      "identifier": "odyssey-x-altstore",
+      "caption": "A new jailbreak for a new era.",
+      "tintColor": "D287F4",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-08-20",
+      "notify": true
     },
 	    {
-      "title": "ACP archive (beta)",
-      "identifier": "just-a-beta",
-      "caption": "this is the first beta of the ACP archive project",
+      "title": "Odyssey Source",
+      "identifier": "welcome-to-odysseysource",
+      "caption": "It's official. Odyssey is distributing via AltStore.",
       "tintColor": "D287F4",
-      "date": "2021-2-12T12:59:00-07:00",
+      "url": "https://altstore.theodyssey.dev",
+      "date": "2020-08-12T12:59:00-07:00",
       "notify": false
     }
   ],
