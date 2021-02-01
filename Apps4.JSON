@@ -61,30 +61,30 @@
   ],
   "news": [
     {
-      "title": "Odyssey 1.2 now available!",
+      "title": "jailbreak checker",
       "identifier": "odyssey-1.2-available",
       "caption": "Supports iOS 13.0-13.7",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
+      "tintColor": "00ff00",
+      "imageURL": "you can jailbreak ios 11-13 with unc0ver and odyssey",
+      "appID": "com.acp.jbc",
       "date": "2020-11-24",
       "notify": true
     },
     {
-      "title": "Odyssey Now Available!",
+      "title": "applecore box beta",
       "identifier": "odyssey-x-altstore",
-      "caption": "A new jailbreak for a new era.",
-      "tintColor": "D287F4",
+      "caption": "please remember that this is only a beta and some things might not work",
+      "tintColor": "00ff00",
       "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
+      "appID": "com.acp.beta",
       "date": "2020-08-20",
       "notify": true
     },
 	    {
-      "title": "Odyssey Source",
+      "title": "welcome the the applecore archive",
       "identifier": "welcome-to-the-acp-archive",
       "caption": "welcome to the new soon to be called applecore box altsource!",
-      "tintColor": "D287F4",
+      "tintColor": "00ff00",
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
     }
