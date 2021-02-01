@@ -1,7 +1,7 @@
 {
   "name": "Applecore Archive Altstore Beta 0,1",
   "identifier": "com.applecore.archive",
-  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
+  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/apps2.json",
   "apps": [
     {
       "name": "Odyssey",
