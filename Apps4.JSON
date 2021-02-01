@@ -1,6 +1,6 @@
 {
-  "name": "applecore acchive beta",
-  "identifier": "com.acp.beta",
+  "name": "Odyssey",
+  "identifier": "org.coolstar.odysseyaltstore",
   "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
   "apps": [
     {
@@ -21,21 +21,7 @@
         "https://theodyssey.dev/assets/images/ss-1.png",
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
-         ]
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "com.instagram.apprefresh",
-      "developerName": "pwnd",
-      "subtitle": "13.5 jb",
-      "version": "5",
-      "versionDate": "2019-06-28T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
-      "localizedDescription": "beta",
-      "tintColor": "BA55D3",
-      "size": 65383246,
-       ]
+      ]
     }
   ],
   "news": [
