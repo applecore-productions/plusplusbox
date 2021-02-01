@@ -21,6 +21,25 @@
         "https://theodyssey.dev/assets/images/ss-1.png",
         "https://theodyssey.dev/assets/images/ss-2.png",
         "https://theodyssey.dev/assets/images/ss-3.png"
+         ]
+    },
+    {
+      "name": "Instagram++",
+      "bundleIdentifier": "com.instagram.apprefresh",
+      "developerName": "Rocket Team",
+      "subtitle": "Instagram 123.0 | Rocket 3.6.8 | NoAds",
+      "version": "123.0",
+      "versionDate": "2019-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://dl.orangedox.com/PandaApp/4?dl=1",
+      "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
+      "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
+      "tintColor": "BA55D3",
+      "size": 65383246,
+      "screenshotURLs": [
+        "https://i.imgur.com/hQDBkcn.jpg",
+	"https://i.imgur.com/sXWyhUO.jpg",
+	"https://i.imgur.com/UA5IKKv.jpg"
       ]
     }
   ],
