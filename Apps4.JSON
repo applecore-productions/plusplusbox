@@ -60,7 +60,6 @@
   ],
   "news": [
     {
- 
       "title": "Odyssey 1.2 and u0 5.3.1 are the latest updates",
       "identifier": "latest-jailbreaks",
       "caption": "12-13.7",
@@ -69,16 +68,7 @@
       "appID": "com.acp.djdhdy",
       "date": "2020-11-24",
       "notify": true
-    },
-    {
-      "title": "nothing to see here",
-      "identifier": "no-no-no",
-      "caption": "there is no news to display",
-      "tintColor": "00ff00",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-08-20",
-      "notify": false
+
     },
 	    {
       "title": "ACP archive (beta)",
