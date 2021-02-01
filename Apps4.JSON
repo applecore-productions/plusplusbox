@@ -1,7 +1,7 @@
 {
-  "name": "Odyssey",
-  "identifier": "org.coolstar.odysseyaltstore",
-  "sourceURL": "https://theodyssey.dev/altstore/odysseysource.json",
+  "name": "acp archive altstore b1",
+  "identifier": "com.acp.alt",
+  "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/Apps4.JSON",
   "apps": [
     {
       "name": "Odyssey",
