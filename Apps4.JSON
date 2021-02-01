@@ -82,10 +82,9 @@
     },
 	    {
       "title": "Odyssey Source",
-      "identifier": "welcome-to-odysseysource",
-      "caption": "It's official. Odyssey is distributing via AltStore.",
+      "identifier": "welcome-to-the-acp-archive",
+      "caption": "welcome to the new soon to be called applecore box altsource!",
       "tintColor": "D287F4",
-      "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
     }
