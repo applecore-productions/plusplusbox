@@ -53,6 +53,22 @@
 	      ]
     },
     {
+      "name": "TikTok",
+      "bundleIdentifier": "com.lema.unicorn",
+      "developerName": "micheal",
+      "subtitle": "tweaked tiktok",
+      "version": "5.2.11",
+      "versionDate": "2021-08-28T14:30:00-07:00",
+      "versionDescription": "this app adds features to tiktok simaler .",
+      "downloadURL": "https://hostigram.xyz/?tkn=RQVLn8VIqHWCzhTDshbG2Jkvk1YoXhkmYr7VWO7cbTEWq",
+      "localizedDescription": "youtube.",
+      "iconURL": "https://i1.sndcdn.com/artworks-XhyjO8NEQ2SEzW8W-A2deHw-t500x500.jpg",
+      "tintColor": "800080",
+      "size": 65383246,
+      "screenshotURLs": [
+	      ]
+    },
+    {
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "u0 team",
