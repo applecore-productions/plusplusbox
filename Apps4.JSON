@@ -98,6 +98,23 @@
       "tintColor": "000000",
       "size": 65383246,
       "screenshotURLs": [
+	        ]
+    },
+    {
+      "name": "wolf for facebook",
+      "bundleIdentifier": "com.lema.FacebookApp",
+      "developerName": "fb analytics (micheal)",
+      "subtitle": "spyware for your phone, FB tracks your every move online to sell for ads",
+      "version": "1.7.3",
+      "versionDate": "2021-08-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1exlIWvTsNR6djgvqHUQHrMKWhjtd4j3z",
+      "localizedDescription": "tweaked app.",
+      "iconURL": "https://image.flaticon.com/icons/png/512/124/124010.png",
+      "tintColor": "00ff00",
+      "size": 65383246,
+      "screenshotURLs": [
+
 
 
       ]
