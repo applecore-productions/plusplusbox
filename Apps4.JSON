@@ -33,8 +33,25 @@
       "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png",
       "tintColor": "00ff00",
       "size": 26463301,
+      "beta": true,
+      "screenshotURLs": [ 
+	  ]
+    },
+    {
+      "name": "instagram rhino",
+      "bundleIdentifier": "com.Lema.Michael.InstagramApp",
+      "developerName": "lema",
+      "subtitle": "better IG",
+      "version": "170.0",
+      "versionDate": "2021-2-1",
+      "versionDescription": "Now with support from 13.0 all the way to 13.7.",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1QFhj0UB44uVJInJLITkf0UPWwrJ_cwh_",
+      "localizedDescription": "a more informative instagram app.",
+      "iconURL": "https://qph.fs.quoracdn.net/main-qimg-3bc9172835d547edcf6dfd63f716522e",
+      "tintColor": "00ff00",
+      "size": 26463301,
       "beta": false,
-      "screenshotURLs": [    
+      "screenshotURLs": [          
       ]
     }
   ],
