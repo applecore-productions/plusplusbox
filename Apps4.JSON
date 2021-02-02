@@ -69,17 +69,17 @@
 	      ]
     },
     {
-      "name": "Instagram rhino",
-      "bundleIdentifier": "com.Lema.Michael.InstagramApp",
+      "name": "Rhino",
+      "bundleIdentifier": "com.acp.rhino",
       "developerName": "micheal",
       "subtitle": "a better version of instagram",
       "version": "3.3",
       "versionDate": "2021-08-28T14:30:00-07:00",
       "versionDescription": "a feature overhaul for Insta.",
-      "downloadURL": "https://hostigram.xyz/?tkn=4IzEtNxQUt5awiijkrnlCRoNRj7RcKtHHKTEKHKZQXe2m",
+      "downloadURL": "https://hostigram.xyz/?tkn=M744WBwLxRz58rN6bhvEEZHA9rLRQrDo4l7Pz3OCAIrri",
       "localizedDescription": "instagram.",
       "iconURL": "https://i1.sndcdn.com/artworks-XhyjO8NEQ2SEzW8W-A2deHw-t500x500.jpg",
-      "tintColor": "800080",
+      "tintColor": "00ff00",
       "size": 65383246,
       "screenshotURLs": [
 	      ]
