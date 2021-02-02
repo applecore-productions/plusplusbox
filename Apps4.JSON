@@ -37,6 +37,22 @@
 	      ]
     },
     {
+      "name": "Twitter++",
+      "bundleIdentifier": "com.lema.OwlApplicationXjkUDIqH",
+      "developerName": "coolstar",
+      "subtitle": "tweaked twitter",
+      "version": "1.6.1",
+      "versionDate": "2021-08-28T14:30:00-07:00",
+      "versionDescription": "this app adds features to twitter.",
+      "downloadURL": "http://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
+      "localizedDescription": "twittwr.",
+      "iconURL": "https://www.ipodhacks142.com/wp-content/uploads/2019/04/ios-12.0-to-12.1.2-jailbreak-chimera-nocomputer.jpg",
+      "tintColor": "00ff00",
+      "size": 65383246,
+      "screenshotURLs": [
+	      ]
+    },
+    {
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "u0 team",
