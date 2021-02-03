@@ -79,13 +79,30 @@
       "version": "2.7",
       "versionDate": "2021-2-1",
       "versionDescription": "latest version.",
-      "downloadURL": "https://hostigram.xyz/?tkn=ftKLBHLtzLdDZ7guf7mi5EyUm7vzUswANEvrOVv3xxxjn&dl=1",
-      "localizedDescription": "a ad-less youtube.",
+      "downloadURL": "https://www.cokernutx.com/ipa2/cercube5.ipa",
+      "localizedDescription": "4k resolution Save videos as audio only View, manage and share all your downloads in Cercube's download manager Block ads Share downloaded videos with other devices via AirDrop Background playback for streamed and downloaded videos Import downloads to Music or Videos Play YouTube videos using Picture-in-Picture mode Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information Choose the default tab to open when launching YouTube Stream videos in HD on cellular network Auto-replay videos Hide floating upload button Hide the Trending tab Rewind or forward videos Cercube options are configurable from within YouTube settings Play in high quality on Mobile Data",
       "iconURL": "https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png",
       "tintColor": "00ff00",
       "size": 26463301,
       "beta": false,
-      "screenshotURLs": [      
+      "screenshotURLs": [  
+	       ]
+    },
+    {
+      "name": "twitter owl",
+      "bundleIdentifier": "com.lema.OwlApplicationXjkUDIqH",
+      "developerName": "lema",
+      "subtitle": "twitter client",
+      "version": "8.41",
+      "versionDate": "2021-2-1",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
+      "localizedDescription": "tweaked twitter.",
+      "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1564498638461cydia-1900000041-icon.png",
+      "tintColor": "00ff00",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [     
       ]
     }
   ],
