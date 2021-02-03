@@ -124,7 +124,7 @@
     },
     {
       "name": "chimera",
-      "bundleIdentifier": "science.xnu.undecimus",
+      "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "coolstar",
       "subtitle": "ios 12 jailbreak",
       "version": "1.6.1",
@@ -137,7 +137,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
-	      
+	      ]
+    },
+    {
+      "name": "Wolf",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "lema",
+      "subtitle": "facebook",
+      "version": "13.1",
+      "versionDate": "2020-12-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "http://download.cokernutx.com/ipadownload/Facebook-Modded.ipa",
+      "localizedDescription": "tweaked facebook.",
+      "iconURL": "https://iosninja.io/img/ipas/facebook.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
       ]
     }
   ],
