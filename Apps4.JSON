@@ -256,6 +256,57 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "whatsapp++",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "ios ninja",
+      "subtitle": "tweaked app",
+      "version": "2.21.10",
+      "versionDate": "2020-12-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=aBjbB4r7EdSnicKU7DDmi4srLIw3wvbC6WHhXng1cRTHe&dl=1",
+      "localizedDescription": "WhatsApp Watusi brings a bunch of useful new features to WhatsApp. ",
+      "iconURL": "https://iosninja.io/img/ipas/whatsapp.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	      ]
+    },
+    {
+      "name": "IG rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "ios ninja",
+      "subtitle": "tweaked app",
+      "version": "171.0",
+      "versionDate": "2021-2-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=9fIHM69US9H2dlI84peSeHxtWgoYsN8zyV1iqnxP4ahJ8&dl=1",
+      "localizedDescription": "Adds new features to Instagram: ",
+      "iconURL": "https://iosninja.io/img/ipas/instagram.jpg",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [
+	       ]
+    },
+    {
+      "name": "Byte++",
+      "bundleIdentifier": "co.byte.video",
+      "developerName": "Lema",
+      "subtitle": "tweaked app",
+      "version": "0.3.2",
+      "versionDate": "2020-8-11",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=Li8ZuVOipK31zC3MzSfe4hecpsmefHAPyrK4BqyIFcF9n&dl=1",
+      "localizedDescription": "Byte++ is a tweak that adds a number of useful new features to the iOS Byte app. It doesn't require a jailbreak and can be installed easily via a sideloading tool such as AltStore. ",
+      "iconURL": "https://iosninja.io/img/ipas/byte-app.jpg",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
       ]
     }
   ],
