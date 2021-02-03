@@ -362,7 +362,7 @@
     },
     {
       "name": "TutuApp VIP",
-      "bundleIdentifier": " ",
+      "bundleIdentifier": "com.saunderstech.*",
       "developerName": "tutubox",
       "subtitle": "tweaked app",
       "version": "1",
