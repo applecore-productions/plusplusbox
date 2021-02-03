@@ -324,6 +324,74 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "YouTube Music ++",
+      "bundleIdentifier": "com.google.ios.youtubemusic7895231113157",
+      "developerName": "tutubox",
+      "subtitle": "tweaked app",
+      "version": "1",
+      "versionDate": "2020-8-11",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/YouTubeMusic++.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/img/YouTubeMusic++.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	      ]
+    },
+    {
+      "name": "IDOS 2",
+      "bundleIdentifier": "com.litchie.idosgames207861226648564",
+      "developerName": "tutubox",
+      "subtitle": "emulator",
+      "version": "1",
+      "versionDate": "2020-8-11",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/iDos2.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/img/iDos2.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	      ]
+    },
+    {
+      "name": "TutuApp VIP",
+      "bundleIdentifier": " ",
+      "developerName": "tutubox",
+      "subtitle": "tweaked app",
+      "version": "1",
+      "versionDate": "2021-1-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/TutuAppVIP.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/img/TutuAppVIP.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Geekbench 5",
+      "bundleIdentifier": " ",
+      "developerName": "tutubox",
+      "subtitle": "tweaked app",
+      "version": "1",
+      "versionDate": "2021-1-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https:https://tutubox.io/apps/Jailbreak/Geekbench5Pro.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/img/Geekbench5Pro.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
       ]
     }
   ],
