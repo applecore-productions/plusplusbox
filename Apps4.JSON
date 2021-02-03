@@ -162,7 +162,7 @@
       "title": "jailbreak checker",
       "identifier": "odyssey-1.2-u0",
       "caption": "odyssey and unc0ver are the latest jailbreaks for ios 11-13-7",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "appID": "com.acp.check",
       "date": "2020-2-1",
       "notify": true
@@ -171,7 +171,7 @@
       "title": "blank!",
       "identifier": "nope-nope-nope",
       "caption": "nothing to see here",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "appID": "com.applecorebox.nonono",
       "date": "2020-08-20",
       "notify": true
@@ -180,7 +180,7 @@
       "title": "beta",
       "identifier": "welcome-to-++box",
       "caption": "this is the altstore beta of applecore box formaly known as applecore archive",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
