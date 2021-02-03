@@ -48,7 +48,7 @@
       "downloadURL": "https://www.cokernutx.com/ipa/panda-ig-Rhino-resigned.ipa",
       "localizedDescription": "a more informative instagram app.",
       "iconURL": "https://qph.fs.quoracdn.net/main-qimg-3bc9172835d547edcf6dfd63f716522e",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
@@ -65,7 +65,7 @@
       "downloadURL": "https://hostigram.xyz/?tkn=Tkeu9MJ1bmmRtnj7ArJnTrSwrXoTMioYNXSzoq9q63Dwh&dl=1",
       "localizedDescription": "a tweaked tiktok.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlwLM_OXdLei-2CrllZklAiFSIcMOZkCBxg&usqp=CAU",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [   
@@ -82,7 +82,7 @@
       "downloadURL": "https://www.cokernutx.com/ipa2/cercube5.ipa",
       "localizedDescription": "4k resolution Save videos as audio only View, manage and share all your downloads in Cercube's download manager Block ads Share downloaded videos with other devices via AirDrop Background playback for streamed and downloaded videos Import downloads to Music or Videos Play YouTube videos using Picture-in-Picture mode Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information Choose the default tab to open when launching YouTube Stream videos in HD on cellular network Auto-replay videos Hide floating upload button Hide the Trending tab Rewind or forward videos Cercube options are configurable from within YouTube settings Play in high quality on Mobile Data",
       "iconURL": "https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [  
@@ -99,7 +99,7 @@
       "downloadURL": "https://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
       "localizedDescription": "tweaked twitter.",
       "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1564498638461cydia-1900000041-icon.png",
-      "tintColor": "00ff00",
+      "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [     
@@ -116,7 +116,7 @@
       "downloadURL": "https://unc0ver.dev/downloads/5.3.1/72004596b31ba3eae886ac6cc781725879d3b7a4/unc0ver_5.3.1.ipa",
       "localizedDescription": "jailbreak.",
       "iconURL": "https://pbs.twimg.com/profile_images/1171122350177153025/OknpE-Oo_400x400.jpg",
-      "tintColor": "000000",
+      "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [   
@@ -154,6 +154,57 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	      ]
+    },
+    {
+      "name": "Bat for Youtube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "lema",
+      "subtitle": "(reccomended) use this over cercube",
+      "version": "1.5",
+      "versionDate": "2020-12-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=w1buQwCtV25v1H8pOz4oNPOEUDwwSgPkxcyLRfa19wyeF&dl=1",
+      "localizedDescription": "4k resolution Save videos as audio only View, manage and share all your downloads in Cercube's download manager Block ads Share downloaded videos with other devices via AirDrop Background playback for streamed and downloaded videos Import downloads to Music or Videos Play YouTube videos using Picture-in-Picture mode Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information Choose the default tab to open when launching YouTube Stream videos in HD on cellular network Auto-replay videos Hide floating upload button Hide the Trending tab Rewind or forward videos Cercube options are configurable from within YouTube settings Play in high quality on Mobile Data",
+      "iconURL": "https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Reddit Lizzard",
+      "bundleIdentifier": "com.lema.LizardApp",
+      "developerName": "lema",
+      "subtitle": "tweaked reddit ",
+      "version": "1.5",
+      "versionDate": "2020-12-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=d4UrFH2O6Fduuk2SlYyVwLlwYTieqj9grX346NMkS5RKk&dl=1",
+      "localizedDescription": "A simple, powerful tool for Reddit",
+      "iconURL": "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Messanger Shark",
+      "bundleIdentifier": "com.lema.SharkApp",
+      "developerName": "lema",
+      "subtitle": "tweaked FB Messanger ",
+      "version": "1.9",
+      "versionDate": "2020-12-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=8VB4M8HyOJgRdA93FTouMjCcVB9QBqPJWLFev8bfOZ6nM&dl=1",
+      "localizedDescription": "A powerful tweak for Messenger",
+      "iconURL": "https://cdn2.downdetector.com/static/uploads/logo/fb-messenger.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
       ]
     }
   ],
@@ -168,18 +219,18 @@
       "notify": true
     },
     {
-      "title": "blank!",
+      "title": "Most essentail tweaked apps have been added",
       "identifier": "nope-nope-nope",
-      "caption": "nothing to see here",
+      "caption": "as of 2/2 most important tweaked apps have been transfered to the new repo",
       "tintColor": "0000ff",
-      "appID": "com.applecorebox.nonono",
+      "appID": "com.plusplusbox.update",
       "date": "2020-08-20",
       "notify": true
     },
 	    {
       "title": "beta",
       "identifier": "welcome-to-++box",
-      "caption": "this is the altstore beta of applecore box formaly known as applecore archive",
+      "caption": "this is the altstore beta of ++Box",
       "tintColor": "0000ff",
       "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
