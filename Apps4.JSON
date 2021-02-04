@@ -460,6 +460,24 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "com.nes.gbox",
+      "developerName": "Nes",
+      "subtitle": "IPA signer",
+      "version": "3.0.5",
+      "versionDate": "2020-1-2",
+      "versionDescription": "latest version from some dude on reddit.",
+      "downloadURL": "https://hostigram.xyz/?tkn=wfeHyjctfjJRQ5JKcxo7aO17QjTHuz7nYeUZqFdMGGGQx&dl=1",
+      "localizedDescription": "this app will sign any IPA file as long as you have a cert",
+      "iconURL": "https://gbox.run/Public/resources/icon256.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+      ]
       ]
     }
   ],
