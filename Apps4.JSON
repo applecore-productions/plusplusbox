@@ -497,6 +497,40 @@
 	"https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
         "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
         "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+	      ]
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "subtitle": "Game",
+      "version": "1.4.3",
+      "versionDate": "2020-1-2",
+      "versionDescription": "updated flappy bird.",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/3.8/org.brandonplank.flappybird.ipa",
+      "localizedDescription": "flappy bird but for modern devices",
+      "iconURL": "https://iosninja.io/img/ipas/flappybird.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "bloons btd 6 hack",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd62338192138018738",
+      "developerName": "Brandon Plank",
+      "subtitle": "Game",
+      "version": "1.4.3",
+      "versionDate": "2020-1-2",
+      "versionDescription": "hacked game.",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/BloonsTD6Hack.ipa",
+      "localizedDescription": "",
+      "iconURL": "https://tutubox.io/img/BloonsTD6Hack.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
        ]
      }
   ],
