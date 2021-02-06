@@ -379,7 +379,7 @@
     },
     {
       "name": "Geekbench 5",
-      "bundleIdentifier": " ",
+      "bundleIdentifier": "com.primatelabs.geekbench5.pro2379",
       "developerName": "tutubox",
       "subtitle": "tweaked app",
       "version": "1",
@@ -519,7 +519,7 @@
     {
       "name": "bloons btd 6 hack",
       "bundleIdentifier": "com.ninjakiwi.bloonstd62338192138018738",
-      "developerName": "Brandon Plank",
+      "developerName": "tutubox",
       "subtitle": "Game",
       "version": "1.4.3",
       "versionDate": "2020-1-2",
@@ -527,6 +527,23 @@
       "downloadURL": "https://tutubox.io/apps/Jailbreak/BloonsTD6Hack.ipa",
       "localizedDescription": "",
       "iconURL": "https://tutubox.io/img/BloonsTD6Hack.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Candy Crush Saga Hack",
+      "bundleIdentifier": "com.saunderstech.candycrushsaga252734987420007",
+      "developerName": "tutubox",
+      "subtitle": "Game",
+      "version": "1.4.3",
+      "versionDate": "2020-1-2",
+      "versionDescription": "hacked game.",
+      "downloadURL": "https://tutubox.io/apps/Jailbreak/CandyCrushSaga.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/img/CandyCrushSaga.png",
       "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
