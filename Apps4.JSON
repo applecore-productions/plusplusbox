@@ -90,7 +90,7 @@
     },
     {
       "name": "twitter owl",
-      "bundleIdentifier": "com.lema.OwlApplicationXjkUDIqH",
+      "bundleIdentifier": "com.lema.OwlApplication",
       "developerName": "lema",
       "subtitle": "twitter client",
       "version": "8.5.1",
