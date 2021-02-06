@@ -477,6 +477,26 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "AltStore Public Beta",
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "IPA signer",
+      "version": "1.4.3",
+      "versionDate": "2020-1-2",
+      "versionDescription": "well i dont need to explain this one your useing it right now .",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/altstore/1_4_3_b2.ipa",
+      "localizedDescription": "you can use this app to sign apps to a cert",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
+	"https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
        ]
      }
   ],
