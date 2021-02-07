@@ -86,24 +86,6 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [  
-	       ]
-    },
-    {
-      "name": "twitter owl",
-      "bundleIdentifier": "com.lema.OwlApplication",
-      "developerName": "lema",
-      "subtitle": "twitter client",
-      "version": "1.6",
-      "versionDate": "2021-2-7",
-      "versionDescription": "latest version.",
-      "downloadURL": "https://wwwcloud.userscloud.net/d/fqlvo2antnnst6ajq7jzrfcedw3gzaxeou4hp5vukwam6iscahjknpqplnz2igkv3lsozplp/Twitter%20(8.51)%20Owl%20v1.6.ipa,
-      "localizedDescription": "tweaked twitter.",
-      "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1564498638461cydia-1900000041-icon.png",
-      "tintColor": "0000ff",
-      "size": 26463301,
-      "beta": false,
-      "screenshotURLs": [     
-	       ]
     },
     {
       "name": "Unc0ver",
