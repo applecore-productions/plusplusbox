@@ -548,6 +548,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Twitter Owl",
+      "bundleIdentifier": "com.lema.TwitterApp",
+      "developerName": "ios ninja",
+      "subtitle": "tweaked app",
+      "version": "1.6",
+      "versionDate": "2021-2-7",
+      "versionDescription": "working.",
+      "downloadURL": "https://wwwcloud.userscloud.net/d/fqlvo2antnnst6ajq7jzrfcedw3gzaxeou4hp5vukwam6iscahjknpqplnz2igkv3lsozplp/Twitter%20(8.51)%20Owl%20v1.6.ipa",
+      "localizedDescription": "this app download is hosted by ios ninja not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://iosninja.io/img/ipas/twitter.jpg",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
        ]
      }
   ],
