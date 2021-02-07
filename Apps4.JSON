@@ -86,7 +86,24 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [  
-                 ]
+	       ]
+    },
+    {
+      "name": "twitter owl",
+      "bundleIdentifier": "com.lema.OwlApplication",
+      "developerName": "lema",
+      "subtitle": "twitter client",
+      "version": "8.5.1",
+      "versionDate": "2021-2-6",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://hostigram.xyz/?tkn=IP1D4fVdyRzeT2X6ynJiU9m235AQUmJJtqM6UrHLm1aMl&dl=1",
+      "localizedDescription": "tweaked twitter.",
+      "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1564498638461cydia-1900000041-icon.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [     
+	       ]
     },
     {
       "name": "Unc0ver",
