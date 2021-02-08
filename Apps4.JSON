@@ -565,6 +565,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	       ]
+    },
+    {
+      "name": "Tutubox",
+      "bundleIdentifier": "com.ygou",
+      "developerName": "tutubox",
+      "subtitle": "tweaked app store",
+      "version": "1.0",
+      "versionDate": "2021-2-7",
+      "versionDescription": "signed",
+      "downloadURL": "https://wwwcloud.userscloud.net/d/fqlvo2antnnst6ajq7jzrfcedw3gzaxeou4hp5vukwam6iscahjknpqplnz2igkv3lsozplp/Twitter%20(8.51)%20Owl%20v1.6.ipa",
+      "localizedDescription": "this app download is hosted by tutubox not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://tutubox.io/assets/img/AppIcon.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
        ]
      }
   ],
