@@ -588,15 +588,6 @@
       "notify": true
     },
     {
-      "title": "Most essentail tweaked apps have been added",
-      "identifier": "nope-nope-nope",
-      "caption": "as of 2/2 most important tweaked apps have been transfered to the new repo",
-      "tintColor": "0000ff",
-      "appID": "com.plusplusbox.update",
-      "date": "2020-08-20",
-      "notify": true
-    },
-    {
       "title": "ALL LINKS FORM TUTUBOX ARE DOWN!!!!!!!!!!!",
       "identifier": "nope-nope-nope",
       "caption": "currently any link form the tutubox library is down because either of a server sided issue or saunders took the ipa library down to save server space.  this takes a chunk out of our app selection so i am actively working on a solution to find or host new links",
