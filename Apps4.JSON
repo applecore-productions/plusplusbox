@@ -363,7 +363,7 @@
     {
       "name": "Geekbench 5",
       "bundleIdentifier": "com.primatelabs.geekbench5.pro2379",
-      "developerName": "tutubox-not working",
+      "developerName": "tutubox-working",
       "subtitle": "tweaked app",
       "version": "1",
       "versionDate": "2021-1-2",
