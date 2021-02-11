@@ -563,9 +563,9 @@
       "notify": true
     },
 	    {
-      "title": "beta",
+      "title": "Welcome to ++box!",
       "identifier": "welcome-to-++box",
-      "caption": "this is the altstore beta of ++Box",
+      "caption": "the most complete vsource and the best enhansment to altstore",
       "tintColor": "0000ff",
       "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
