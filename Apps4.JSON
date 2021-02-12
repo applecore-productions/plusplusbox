@@ -531,6 +531,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	        ]
+    },
+    {
+      "name": "tutubox",
+      "bundleIdentifier": "com.ygou",
+      "developerName": "tutubox",
+      "subtitle": "tweaked app store",
+      "version": "1.4.3",
+      "versionDate": "2020-1-2",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://github.com/applecore-productions/sideloadstore/raw/main/tutubox.ipa",
+      "localizedDescription": "this app download is hosted by sideloadstore.tk not me If this app is not downloading or there is a more up to date versionput a report on my GitHub and I will fix it",
+      "iconURL": "https://pbs.twimg.com/profile_images/1283540493784186881/nJ_Y6xHs_400x400.jpg",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
        ]
      }
   ],
