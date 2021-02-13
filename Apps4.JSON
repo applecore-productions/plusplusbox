@@ -634,17 +634,18 @@
       "beta": false,
       "screenshotURLs": [ 
 	       ]
-       ]
-     }
+     ]
+    }
   ],
   "news": [
     {
-      "title": "jailbreak checker",
-      "identifier": "odyssey-1.2-u0",
-      "caption": "odyssey and unc0ver are the latest jailbreaks for ios 11-13-7",
-      "tintColor": "0000ff",
-      "appID": "com.acp.check",
-      "date": "2020-2-1",
+      "title": "Odyssey 1.2 now available!",
+      "identifier": "odyssey-1.2-available",
+      "caption": "Supports iOS 13.0-13.7",
+      "tintColor": "D287F4",
+      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
+      "appID": "org.coolstar.odyssey",
+      "date": "2020-11-24",
       "notify": true
     },
     {
