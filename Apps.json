@@ -1714,17 +1714,17 @@
     }
   ],
   "identifier": "com.example.source",
-  "name": "++Box V1",
+  "name": "Applecore IPA Archive",
   "news": [
     {
       "appID": "com.acp",
-      "caption": "welcome to the new repo for. AltStore and Esign where I will actively update the IPAs. ",
+      "caption": "this repo is outdated mainly cause the JSON tool I use is obsolete in the new versions of altstore plus most links don't work anymore please get the V2",
       "date": "2021-1-1",
       "identifier": "delta-now-available",
       "imageURL": "",
       "notify": false,
       "tintColor": "8A28F7",
-      "title": "welcome to the repo"
+      "title": "SHUTTING DOWN MARCH !st"
     }
   ],
   "userInfo": {}
