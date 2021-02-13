@@ -632,8 +632,10 @@
       "tintColor": "0000ff",
       "size": 26463301,
       "beta": false,
-      "screenshotURLs": [ 
-]
+      "screenshotURLs":[
+        "https://theodyssey.dev/assets/images/ss-1.png",
+        "https://theodyssey.dev/assets/images/ss-2.png",
+        "https://theodyssey.dev/assets/images/ss-3.png"
       ]
     }
   ],
