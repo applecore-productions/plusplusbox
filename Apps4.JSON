@@ -639,16 +639,6 @@
   ],
   "news": [
     {
-      "title": "Odyssey 1.2 now available!",
-      "identifier": "odyssey-1.2-available",
-      "caption": "Supports iOS 13.0-13.7",
-      "tintColor": "D287F4",
-      "imageURL": "https://theodyssey.dev/assets/images/meta.png",
-      "appID": "org.coolstar.odyssey",
-      "date": "2020-11-24",
-      "notify": true
-    },
-    {
       "title": "15+ more apps added |feb 3",
       "identifier": "news-++box-2",
       "caption": "as of feb 3 I have added and transfered 15 new apps to ++box",
