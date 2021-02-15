@@ -888,19 +888,36 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs":[      
+	       ]
+    },
+    {
+      "name": "Plank Filza",
+      "bundleIdentifier": "org.brandonplank.PlankFilza",
+      "developerName": "Brandon Plank",
+      "subtitle": "Jailbreak Utility",
+      "version": "1",
+      "versionDate": "2021-2-14",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://github.com/applecore-productions/sideloadstore/raw/main/PlankFilza.ipa",
+      "localizedDescription": "Thanks to Brandon Plank we can now run filza un jailborken on ios 13.3!!",
+      "iconURL": "https://tutuapp-vip.com/wp-content/uploads/2019/04/filza-1.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs":[      
        
       ]
     }
   ],
   "news": [
     {
-      "title": "15+ more apps added |feb 3",
+      "title": "FILZA UPDATED FOR IOS 14",
       "identifier": "news-++box-2",
-      "caption": "as of feb 3 I have added and transfered 15 new apps to ++box",
+      "caption": "filza now works on ios 14-14.3",
       "tintColor": "0000ff",
       "appID": "com.acp.check",
-      "date": "2020-2-1",
-      "notify": false
+      "date": "2021-2-14",
+      "notify": true
     },
     {
       "title": "ALL TUTUBOX LINKS ARE FIXED",
