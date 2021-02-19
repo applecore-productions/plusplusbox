@@ -21,7 +21,7 @@
    ]
     },
     {
-      "name": "esign",
+      "name": "ESign",
       "bundleIdentifier": "rl.esign.YYYSign.co",
       "developerName": "Ouk",
       "subtitle": "ipa signer",
