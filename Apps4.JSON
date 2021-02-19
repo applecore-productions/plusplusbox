@@ -637,7 +637,7 @@
     },
     {
       "name": "Channels",
-      "bundleIdentifier": "com.comicbooktest.platform.channels7Mbpfmh",
+      "bundleIdentifier": "com.comicbooktest.platform.channels",
       "developerName": "cokernut x",
       "subtitle": "tweaked apps",
       "version": "1",
@@ -705,7 +705,7 @@
     },
     {
       "name": "Crunchyroll++",
-      "bundleIdentifier": "com.comicbooktest.platform.crunchyrollisPGof1wmu",
+      "bundleIdentifier": "com.comicbooktest.platform.crunchyrollisa3iHvZu2",
       "developerName": "cokernut x",
       "subtitle": "tweaked app",
       "version": "1",
@@ -858,7 +858,7 @@
     },
     {
       "name": "Glazba – Music Player",
-      "bundleIdentifier": "com.pash.musicplayerx3HcyYzV",
+      "bundleIdentifier": "com.pash.musicplayer7oUAFuRs",
       "developerName": "cokernut-x",
       "subtitle": "tweaked app",
       "version": "2.4.0",
