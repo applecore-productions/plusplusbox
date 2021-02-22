@@ -56,7 +56,7 @@
     },
     {
       "name": "TikTok Unicorn",
-      "bundleIdentifier": "com.lema.UnicornApp",
+      "bundleIdentifier": "com.uni.UnicornApp",
       "developerName": "lema",
       "subtitle": "better Tiktok",
       "version": "18.0",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Wolf",
-      "bundleIdentifier": "com.facebook.Facebook",
+      "bundleIdentifier": "com.wolf.FacebookApp",
       "developerName": "lema",
       "subtitle": "facebook",
       "version": "1.9",
@@ -158,7 +158,7 @@
     },
     {
       "name": "Reddit Lizzard",
-      "bundleIdentifier": "com.lema.LizardApp",
+      "bundleIdentifier": "com.liz.LizardApp",
       "developerName": "lema",
       "subtitle": "tweaked reddit ",
       "version": "1.5",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Messanger Shark",
-      "bundleIdentifier": "com.lema.SharkApp",
+      "bundleIdentifier": "com.ipashark.SharkApp",
       "developerName": "lema",
       "subtitle": "tweaked FB Messanger ",
       "version": "2.0",
