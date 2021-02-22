@@ -911,6 +911,16 @@
   ],
   "news": [
     {
+      "title": "please fill out form if you use ++box",
+      "identifier": "news-++box-2",
+      "caption": "i need to know if people actualy use ++box so i know if i should keep it up to date, even 3 responces will convince me to keep it up to date you can click on the nwes tab that your reading now to fill out the form, Thanks, Happy sideloading!!!",
+      "tintColor": "0000ff",
+      "https://forms.gle/aayXtf2NfSpnSeTF8",
+      "appID": "com.acp.check",
+      "date": "2021-2-14",
+      "notify": true
+    },
+    {
       "title": "FILZA UPDATED FOR IOS 14",
       "identifier": "news-++box-2",
       "caption": "filza now works on ios 14-14.3",
