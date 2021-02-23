@@ -154,6 +154,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [ 
+	      ]
+    },
+    {
+      "name": "Twitter Owl",
+      "bundleIdentifier": "com.atebits.Tweetie2182571743218788",
+      "developerName": "lema",
+      "subtitle": "",
+      "version": "1.5",
+      "versionDate": "2021-2-20",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://drive.google.com/uc?export=download&confirm=t5wE&id=13ySP5I_7dB3Q0sf4s4dIAae9ePlB5b53",
+      "localizedDescription": "Twitter Owl is a tweak for the iOS Twitter app that introduces new features and enhancements such as:, Save videos, Disable Twitter Ads, View confirmation prompt when liking tweets, Authentication Mode: protect the app with Face ID authentication",
+      "iconURL": "https://iosninja.io/img/ipas/twitter.jpg",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": false,
+      "screenshotURLs": [ 
 	       ]
     },
     {
