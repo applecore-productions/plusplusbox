@@ -911,6 +911,15 @@
   ],
   "news": [
     {
+      "title": "++Box update 3 will release sometime next week ",
+      "identifier": "news-++box-v3",
+      "caption": "A huge update to ++Box is comming in the next week with more accurate app descriptions and screenshota added to some apps plus unc0ver 6 will be added for ios 14 when released, happy sideloading!",
+      "tintColor": "0000ff",
+      "appID": "com.plusplus.v3update",
+      "date": "2021-2-14",
+      "notify": false
+    },
+    {
       "title": "please fill out form if you use ++box",
       "identifier": "news-++box-2",
       "caption": "i need to know if people actualy use ++box so i know if i should keep it up to date, even 3 responces will convince me to keep it up to date you can click on the nwes tab that your reading now to fill out the form, Thanks, Happy sideloading!!!",
