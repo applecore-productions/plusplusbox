@@ -922,6 +922,23 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs":[      
+	        ]
+    },
+    {
+      "name": "App Intsaller",
+      "bundleIdentifier": "ks1s2.1ajjb.tpu5l.qn5g",
+      "developerName": "EonHub",
+      "subtitle": "IPA installer",
+      "version": "1.0",
+      "versionDate": "2021-2-14",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://eonhubapp.com/free/ipas/appinstaller.ipa",
+      "localizedDescription": "this app is currently being tested and should not be installed",
+      "iconURL": "https://app.eonhubapp.com/img/appinstaller.png",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": true,
+      "screenshotURLs":[      
        
       ]
     }
