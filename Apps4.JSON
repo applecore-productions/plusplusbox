@@ -188,7 +188,6 @@
       "size": 26463301,
       "beta": false,
       "screenshotURLs": [
-https://www.reddit.com/mobile/site/images/phone.png 
 	       ]
     },
     {
@@ -946,64 +945,9 @@ https://www.reddit.com/mobile/site/images/phone.png
   ],
   "news": [
     {
-      "title": "UNC0VER UPDATED FOR IOS 14",
-      "identifier": "news-++box-v3",
-      "caption": "Unc0ver 6 is now up to date for ios 14.3 upadte it now on ++Box.",
-      "tintColor": "0000ff",
-      "appID": "com.plusplus.u014",
-      "date": "2021-2-14",
-      "notify": false
-    },
-    {
-      "title": "u0 updated to 6.0.2 and Odyssey updated to 1.3.0",
-      "identifier": "u0-odyssey-updated",
-      "caption": "I have updated Unc0ver Jailbreak to v6.0.1 but i am still providing the 6.0.0 version as anything 6.0.1> i am having MAJOR issues with.  I also updated odyssey JB to 1.3.0",
-      "tintColor": "0000ff",
-      "appID": "com.plusplus.u014",
-      "date": "2021-2-14",
-      "notify": true
-    },
-    {
-      "title": "++Box update 3 will release sometime next week ",
-      "identifier": "news-++box-v3",
-      "caption": "A huge update to ++Box is comming in the next week with more accurate app descriptions and screenshota added to some apps plus unc0ver 6 will be added for ios 14 when released, happy sideloading!",
-      "tintColor": "0000ff",
-      "appID": "com.plusplus.v3update",
-      "date": "2021-2-14",
-      "notify": false
-    },
-    {
-      "title": "please fill out form if you use ++box",
-      "identifier": "news-++box-2",
-      "caption": "i need to know if people actualy use ++box so i know if i should keep it up to date, even 3 responces will convince me to keep it up to date you can click on the nwes tab that your reading now to fill out the form, Thanks, Happy sideloading!!!",
-      "tintColor": "0000ff",
-      "url": "https://forms.gle/aayXtf2NfSpnSeTF8",
-      "appID": "com.acp.check",
-      "date": "2021-2-14",
-      "notify": true
-    },
-    {
-      "title": "FILZA UPDATED FOR IOS 14",
-      "identifier": "news-++box-2",
-      "caption": "filza now works on ios 14-14.3",
-      "tintColor": "0000ff",
-      "appID": "com.acp.check",
-      "date": "2021-2-14",
-      "notify": false
-    },
-    {
-      "title": "LEMA APPS UPDATED| 2/20",
-      "identifier": "nope-nope-nope",
-      "caption": "tweaked apps have been updated",
-      "tintColor": "0000ff",
-      "appID": "com.anoying.tutubox",
-      "date": "2021-2-6",
-      "notify": false
-    },
-	    {
-      "title": "Welcome to ++box!",
+      "title": "++Box, Altstore to the max",
       "identifier": "welcome-to-++box",
-      "caption": "the most complete vsource and the best enhansment to altstore",
+      "caption": "This is the best place to get all of your tweaked apps, no revoke! (the only new updates i will post here is the release of a big jailbreak, othor updates can be found on the ++Box twitter @PlusPlusBox1) Happy sideloading!",
       "tintColor": "0000ff",
       "url": "https://altstore.theodyssey.dev",
       "date": "2020-08-12T12:59:00-07:00",
