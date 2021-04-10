@@ -970,6 +970,15 @@
       "date": "2020-08-12T12:59:00-07:00",
       "notify": false
     }
+    {
+      "title": "++Box HAS BEEN REBORN",
+      "identifier": "the-new-plusplusbox",
+      "caption": "After ++Box got discontinued in february due to altstore being to buggy and unstable, there has been a few developments from othor signing services and signing tools that they are porting the sorces feature! as of now, I will not add any apps but instead update and fix the broken ones as well as change the app theeme back to the default altstore.  Another reason I decided to continue development on plusplus box is because I found a way to use download links from other tweaked app stores to save storage on git LFS storage.  Expect big updates in the upcomming days to weeks!",
+      "tintColor": "0000ff",
+      "url": "https://altstore.theodyssey.dev",
+      "date": "2020-08-12T12:59:00-07:00",
+      "notify": false
+    }
   ],
   "userInfo": {}
 }
