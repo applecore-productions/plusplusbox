@@ -939,6 +939,23 @@
       "size": 26463301,
       "beta": true,
       "screenshotURLs":[      
+	       ]
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "developerName": "Coolstar",
+      "subtitle": "Time to get amped. IOS 14 jailbreak (reccomended)",
+      "version": "1.0.3",
+      "versionDate": "2021-4-9",
+      "versionDescription": "latest version.",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.3/Taurine-1.0.3.ipa",
+      "localizedDescription": "Fast. Really Fast.Taurine is a fast, supercharged experience, using libhooker and extensive testing to ensure the best possible jailbreaking experience.A path to openness.Taurine will be open sourced (with some exceptions) in the future, allowing others to learn from and build upon it, the way a jailbreak should be.Power users welcome.Taurine comes with the open source Procursus bootstrap, designed from the ground up with community contributions and compatiblity in mind, and brings desktop-class functionality to your device with powerful packages.",
+      "iconURL": "data:image/jpeg;base64,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",
+      "tintColor": "0000ff",
+      "size": 26463301,
+      "beta": true,
+      "screenshotURLs":[	      
        
       ]
     }
