@@ -226,7 +226,7 @@
     },
     {
       "name": "Spotify++",
-      "bundleIdentifier": "com.spotify.client",
+      "bundleIdentifier": "com.spotify.client.28306",
       "developerName": "tutubox",
       "subtitle": "spotify app",
       "version": "1.0",
