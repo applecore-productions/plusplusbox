@@ -1,6 +1,6 @@
 {
   "name": "++ box",
-  "identifier": "com.wrongbundleid.thisfiledoesnotexist",
+  "identifier": "com.wrongbundleid.thisfiledoesnotxist",
   "sourceURL": "https://raw.githubusercontent.com/applecore-productions/applecoreipalib/main/Apps4.JSON",
   "apps": [
     {
