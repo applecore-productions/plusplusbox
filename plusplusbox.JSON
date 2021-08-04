@@ -981,7 +981,7 @@
     {
       "title": "URGENT ++BOX NEWS,
       "identifier": "welcome-to-++box",
-      "caption": "attention all, I am currently working on a 3rd party app store called Sideloadstore (like how TuTuBox used to be with useing revoked certs.) and full added altstore install support.  I plan to carry over the full PlusPlusBox app library as well along with more apps.  this new store will be replaceing PlusPlus Box and this repo will be discontinued on October 1st 2021.  I will post the link to it here when its ready.  Happy sideloading! ",
+      "caption": "PlusPlusBox repo will be discontimued on October 1st because of the new 3rd party appstore with altstore support im building with better graphics",
       "tintColor": "018084",
       "url": "https://altstore.theodyssey.dev",
       "date": "2021-4-1T12:59:00-07:00",
